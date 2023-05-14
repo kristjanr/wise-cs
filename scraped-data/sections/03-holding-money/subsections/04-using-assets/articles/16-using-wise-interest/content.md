@@ -1,5 +1,5 @@
-# Using Wise Interest
-
+# Using Assets  
+## Using Wise Interest  
 You can switch to Wise Interest from a balance or Jar in certain currencies, if you’re eligible. Check if you are eligible to _switch to Interest_.
 
 This feature is currently not available for US customers, but you might be still eligible to earn interest on your money if you live in the US.

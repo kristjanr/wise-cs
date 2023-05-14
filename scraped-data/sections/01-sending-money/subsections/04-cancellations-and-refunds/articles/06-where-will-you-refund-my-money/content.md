@@ -1,5 +1,5 @@
-# Where will you refund my money?
-
+# Cancellations and refunds  
+## Where will you refund my money?  
 Wise automatically refunds your money to the bank account or card that you paid with.
 
 The exception to this is if you’ve paid with your Wise balance. If you have, we’ll refund your money to the balance you paid with.

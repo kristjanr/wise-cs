@@ -1,5 +1,5 @@
-# How much does it cost to send large transfers?
-
+# Sending large transfers  
+## How much does it cost to send large transfers?  
 We always use the real exchange rate and charge a transparent fee, no matter how much money you send with us. And the more you send with us, the more you save on fees.
 
 ### How do our fees work? 

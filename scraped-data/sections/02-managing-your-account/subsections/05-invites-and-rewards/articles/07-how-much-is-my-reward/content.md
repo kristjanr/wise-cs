@@ -1,5 +1,5 @@
-# How much is my reward?
-
+# Invites and rewards  
+## How much is my reward?  
 This is normally 50 GBP but you can check your invite page, as this can vary based on country, or if we’re running a promotion.
 
 We can change the invite program at any time, so be sure to check it regularly. If you keep inviting friends after we make a change this means you accept the new terms.

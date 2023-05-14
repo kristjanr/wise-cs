@@ -1,5 +1,5 @@
-# Paying with iDeal
-
+# Ways to pay  
+## Paying with iDeal  
 iDeal payment method is available for EUR payments for bank accounts in the Netherlands. It’s a simple and convenient way to pay for your transfer.
 
 Here are some details about the iDeal payment:

@@ -1,5 +1,5 @@
-# How to sync your contacts to find friends on Wise
-
+# Managing your recipients  
+## How to sync your contacts to find friends on Wise  
 You can find your friends on your Recipients tab, when sending money, or in your settings under Contacts on Wise. We’ll simply show you an option to **Sync your contacts** — that’s it! 
 
 You can remain private from others finding you, and still have the convenience of sending money to your friends. Or you can let people find you.

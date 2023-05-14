@@ -1,5 +1,5 @@
-# Paying with online bill pay
-
+# Ways to pay  
+## Paying with online bill pay  
 You can send Canadian dollars (CAD) with Wise via online bill pay. Sometimes it’s called bill payments, or OBT. It’s a cheap and convenient way to send CAD. 
 
 An OBT can take 1-3 working days to arrive to Wise. 

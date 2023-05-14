@@ -1,5 +1,5 @@
-# I need to change my delivery address
-
+# Ordering and activating  
+## I need to change my delivery address  
 **The delivery address doesn’t have to be the address on your account.**
 
 For instance, you can order the card to your office, or to a friend or relative’s place. 

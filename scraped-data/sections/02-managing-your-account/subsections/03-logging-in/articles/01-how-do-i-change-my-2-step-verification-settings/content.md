@@ -1,5 +1,5 @@
-# How do I change my 2-step verification settings?
-
+# Logging in  
+## How do I change my 2-step verification settings?  
 You have 3 ways to use for 2-step verification. You can receive a code by text message or phone call, receive a notification in the Wise app, or use a separate authenticator app.
 
 Using the app is more reliable, because it only needs the internet connection to work. It’s the best option if you have problems with your phone, or if you’re planning to travel.

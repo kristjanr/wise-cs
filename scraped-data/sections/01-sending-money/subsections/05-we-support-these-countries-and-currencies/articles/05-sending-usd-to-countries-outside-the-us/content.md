@@ -1,5 +1,5 @@
-# Sending USD to countries outside the US
-
+# We support these countries and currencies  
+## Sending USD to countries outside the US  
 With Wise, you can send US dollars to bank accounts that are denominated in USD outside the US. This way, businesses who need to pay USD invoices or send money to an account outside the US can do so without using their bank.
 
 USD is sent to bank accounts outside the US via the SWIFT payment network. This is different than a regular Wise transfer and could take a day or 2 longer. It also costs a bit more because it goes through intermediary banks, but is still cheaper than more traditional methods of sending money overseas.

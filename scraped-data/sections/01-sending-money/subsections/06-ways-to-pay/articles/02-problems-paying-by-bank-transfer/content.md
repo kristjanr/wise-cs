@@ -1,5 +1,5 @@
-# Problems paying by bank transfer
-
+# Ways to pay  
+## Problems paying by bank transfer  
 Here are some solutions to the most common problems that people have when paying by bank transfer.
 
 ### I didn’t include the reference number

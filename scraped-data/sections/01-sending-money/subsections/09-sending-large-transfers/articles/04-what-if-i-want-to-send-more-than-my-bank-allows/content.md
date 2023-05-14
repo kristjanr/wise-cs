@@ -1,5 +1,5 @@
-# What if I want to send more than my bank allows?
-
+# Sending large transfers  
+## What if I want to send more than my bank allows?  
 Your bank may limit the amount you can send in one transfer, or in one day. This can make it hard to send large amounts — but here are some ways to make it easier.
 
 ### Go to your bank branch in person

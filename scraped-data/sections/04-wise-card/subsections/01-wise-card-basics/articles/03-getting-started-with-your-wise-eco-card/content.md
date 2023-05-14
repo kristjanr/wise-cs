@@ -1,5 +1,5 @@
-# Getting started with your Wise eco card
-
+# Wise card basics  
+## Getting started with your Wise eco card  
 We’re launching an eco-friendly card made of a _biodegradable material_ to reduce plastic waste. 
 
 To use less ink, the card will only have your name printed on it. _You can check your full card details on your Wise account_.

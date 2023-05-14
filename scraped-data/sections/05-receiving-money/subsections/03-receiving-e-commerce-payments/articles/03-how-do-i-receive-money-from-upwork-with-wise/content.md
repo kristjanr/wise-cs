@@ -1,5 +1,5 @@
-# How do I receive money from Upwork with Wise?
-
+# Receiving e-commerce payments  
+## How do I receive money from Upwork with Wise?  
 Upwork is a freelancing platform that helps businesses and individuals conduct business, and for freelancers to get paid. 
 
 Upwork operates in USD. If you decide to get paid in a different currency, the platform will convert the money at an exchange rate decided by Upwork before paying out to your Wise account. 

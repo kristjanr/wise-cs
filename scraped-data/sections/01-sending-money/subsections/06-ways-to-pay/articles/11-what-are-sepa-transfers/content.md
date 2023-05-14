@@ -1,5 +1,5 @@
-# What are SEPA transfers?
-
+# Ways to pay  
+## What are SEPA transfers?  
 SEPA (or the Single Euro Payments Area) is the new format for cross-border euro (EUR) bank transfers.
 
  **SEPA aims to make cross-border EUR transfers within this area equivalent to a domestic transfer within your own country.**

@@ -1,5 +1,5 @@
-# What if I can't add my Wise card to my mobile wallet?
-
+# Mobile wallet  
+## What if I can't add my Wise card to my mobile wallet?  
 There are some situations where you might have trouble adding your Wise card to your mobile wallet.
 
 ### If you haven’t received the SMS code

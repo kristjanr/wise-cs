@@ -1,5 +1,5 @@
-# Can I have more than one business account?
-
+# Wise Business basics  
+## Can I have more than one business account?  
 If you run multiple businesses, you can have Wise accounts for each one. All of your accounts can live under one set of login details. 
 
 To set up additional business accounts:

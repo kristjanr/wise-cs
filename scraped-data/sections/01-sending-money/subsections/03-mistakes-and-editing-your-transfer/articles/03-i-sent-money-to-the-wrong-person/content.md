@@ -1,5 +1,5 @@
-# I sent money to the wrong person
-
+# Mistakes and editing your transfer  
+## I sent money to the wrong person  
 Everyone makes mistakes. And there are 2 ways to fix this one:
 
   * depending on where the money is, you can cancel the transfer yourself and start again

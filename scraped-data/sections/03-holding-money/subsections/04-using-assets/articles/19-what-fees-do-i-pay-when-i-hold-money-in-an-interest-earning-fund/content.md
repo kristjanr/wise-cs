@@ -1,5 +1,5 @@
-# What fees do I pay when I hold money in an interest-earning fund?
-
+# Using Assets  
+## What fees do I pay when I hold money in an interest-earning fund?  
 When you **hold your money in an interest-earning fund** you pay two fees: a service fee and a fund fee. 
 
 ### **What’s the service fee?**

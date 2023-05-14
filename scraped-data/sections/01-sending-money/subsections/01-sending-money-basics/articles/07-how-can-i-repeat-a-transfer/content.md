@@ -1,5 +1,5 @@
-# How can I repeat a transfer?
-
+# Sending money basics  
+## How can I repeat a transfer?  
 If you’ve made a transfer before and want to repeat it, you can do this automatically from 3 different places:
 
   * When you are logged in to Wise, click on the transfer you wish to repeat. Then choose **Repeat transfer**. You’ll have a chance to review all the details before you confirm the transfer and pay

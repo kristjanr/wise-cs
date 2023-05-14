@@ -1,5 +1,5 @@
-# I've ended my business, what do I do?
-
+# Managing and verifying your business account  
+## I've ended my business, what do I do?  
 Ending your business can be stressful. But we’ve made it easier to get your Wise Business account sorted when this happens.
 
 If your business has entered the insolvency or liquidation proceeding, share our email thirdpartyrequests@wise.com with your liquidator or the insolvency administrator.

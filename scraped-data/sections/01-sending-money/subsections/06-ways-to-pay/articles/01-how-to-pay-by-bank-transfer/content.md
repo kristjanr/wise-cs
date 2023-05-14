@@ -1,5 +1,5 @@
-# How to pay by bank transfer
-
+# Ways to pay  
+## How to pay by bank transfer  
 First, you’ll need to set up your transfer on Wise. Then, you’ll need to exit your Wise account, and pay by bank transfer directly through your bank. You can do this either:
 
   * online, through your online banking

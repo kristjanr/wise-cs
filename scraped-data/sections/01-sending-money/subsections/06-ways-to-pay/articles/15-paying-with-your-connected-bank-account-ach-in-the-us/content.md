@@ -1,5 +1,5 @@
-# Paying with your connected bank account (ACH) in the US
-
+# Ways to pay  
+## Paying with your connected bank account (ACH) in the US  
 When you pay with your connected bank account (ACH), you first need to _connect your preferred bank account_ and authorise a one-time debit from your account to our bank details. Then you need to choose your bank and authorise a payment each time you pay with this method. 
 
 Here are some common questions about paying using your connected bank account (ACH) in the US.

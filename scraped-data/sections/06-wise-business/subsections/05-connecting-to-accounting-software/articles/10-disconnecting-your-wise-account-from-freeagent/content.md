@@ -1,5 +1,5 @@
-# Disconnecting your Wise account from FreeAgent
-
+# Connecting to accounting software  
+## Disconnecting your Wise account from FreeAgent  
 To disconnect your Wise account from FreeAgent:
 
   1. Go to **Settings**

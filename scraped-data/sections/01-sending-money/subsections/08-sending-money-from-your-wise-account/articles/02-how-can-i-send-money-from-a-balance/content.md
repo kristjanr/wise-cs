@@ -1,5 +1,5 @@
-# How can I send money from a balance?
-
+# Sending money from your Wise account  
+## How can I send money from a balance?  
 Sending money from your Wise balance is faster than sending from a bank account outside of Wise — and for transfers over 1,000 GBP or equivalent in other currencies, the fees are lower, too. 
 
 Before you start, you’ll need to open a balance and make sure you have enough money there to make your transfer. Here’s how to add money.

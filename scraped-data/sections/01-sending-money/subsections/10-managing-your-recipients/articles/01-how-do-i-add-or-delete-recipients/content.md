@@ -1,5 +1,5 @@
-# How do I add or delete recipients?
-
+# Managing your recipients  
+## How do I add or delete recipients?  
 Whenever you send money to someone, we’ll save their recipient details automatically. But you can also add their details ahead of time. You can also delete them if they’re no longer needed.
 
 ### How to add a new recipient

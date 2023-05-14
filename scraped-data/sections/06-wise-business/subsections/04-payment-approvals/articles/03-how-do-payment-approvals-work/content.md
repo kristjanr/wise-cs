@@ -1,5 +1,5 @@
-# How do Payment Approvals work?
-
+# Payment Approvals  
+## How do Payment Approvals work?  
 Payment approvals help businesses control their payments on Wise. Approval rules are currently only available if you have Wise currency accounts. Check which countries you can get Wise currency accounts in.
 
 You can enable Payment approvals in two ways:

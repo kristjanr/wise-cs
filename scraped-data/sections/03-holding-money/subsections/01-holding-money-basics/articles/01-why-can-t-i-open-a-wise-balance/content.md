@@ -1,5 +1,5 @@
-# Why can't I open a Wise balance?
-
+# Holding money basics  
+## Why can't I open a Wise balance?  
 We’d like to offer balances to everyone. But there are countries and territories where you can’t open balances just yet:
 
 ####  **A**

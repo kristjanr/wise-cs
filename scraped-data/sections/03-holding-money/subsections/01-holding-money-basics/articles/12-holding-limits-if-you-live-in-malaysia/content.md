@@ -1,5 +1,5 @@
-# Holding limits if you live in Malaysia
-
+# Holding money basics  
+## Holding limits if you live in Malaysia  
 According to Bank Negara Malaysia Regulation, electronic money issuers like Wise have to ensure that Malaysian users’ e-wallets have holding limits applied. 
 
 ##### For personal accounts:

@@ -1,5 +1,5 @@
-# Can I send from a joint bank account?
-
+# Sending money basics  
+## Can I send from a joint bank account?  
 Yes. As long as:
 
   * you’re one of the account holders

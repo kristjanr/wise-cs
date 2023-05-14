@@ -1,5 +1,5 @@
-# I want to cancel a transfer I haven't paid for
-
+# Cancellations and refunds  
+## I want to cancel a transfer I haven't paid for  
 Depending on what step your transfer is at, you may be able to cancel it. First, check the status of your transfer in your activity list. Then, match the status to the corresponding step below to see what you can do.
 
 ### You set up your transfer

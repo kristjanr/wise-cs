@@ -1,5 +1,5 @@
-# What are my spending limits?
-
+# Wise card basics  
+## What are my spending limits?  
 Your Wise card comes with default and maximum limits. You can always choose either one in your Wise app or desktop version, or turn off a specific type of payment completely. 
 
 There are different limits for cardholders in different countries, so keep in mind where you ordered your card.

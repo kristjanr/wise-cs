@@ -1,5 +1,5 @@
-# What's the Wise affiliate program?
-
+# Invites and rewards  
+## What's the Wise affiliate program?  
 Our affiliate program gives you the opportunity to spread the word about Wise and our mission — and earn a commission for each new user you send our way. If you’re an affiliate partner, we’ll give you a unique affiliate link that you can use on your website, emails, blog posts, and social media. When a user signs up with us through your link, you get rewarded. 
 
 Learn more about becoming an affiliate partner

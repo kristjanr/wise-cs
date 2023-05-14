@@ -1,5 +1,5 @@
-# Types of transfers for sending European currencies
-
+# Ways to pay  
+## Types of transfers for sending European currencies  
 There are 2 types of transfers you can use to send money from European currencies apart from EUR: Fast and easy, and Low cost transfers.
 
 You can choose from these transfers when sending PLN, HUF, RON, BGN, CZK, SEK, NOK, and DKK. 

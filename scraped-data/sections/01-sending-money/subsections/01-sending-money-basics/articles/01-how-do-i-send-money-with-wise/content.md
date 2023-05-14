@@ -1,5 +1,5 @@
-# How do I send money with Wise?
-
+# Sending money basics  
+## How do I send money with Wise?  
 **1.** **Sign up** **with Wise.**
 
 We’ll ask for your email address, and you’ll create a password. You can also sign up by connecting to your Google or Facebook account. 

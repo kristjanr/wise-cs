@@ -1,5 +1,5 @@
-# How does my connection with Xero work?
-
+# Connecting to accounting software  
+## How does my connection with Xero work?  
 If you haven’t already, connect your Xero account to your Wise account. Once you’ve connected, you can manage the following from your _Connection settings_:
 
   *  **Import bills to Wise**

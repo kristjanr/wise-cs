@@ -1,5 +1,5 @@
-# Getting started with your Wise digital card
-
+# Wise card basics  
+## Getting started with your Wise digital card  
 Just like your physical card, the digital card lets you spend money around the world with low conversion fees in a secure way. 
 
 You can get a digital card if you already have a physical card and live in the UK, Australia, Japan, New Zealand, Singapore, Malaysia, Switzerland, EEA, Brazil or Canada.

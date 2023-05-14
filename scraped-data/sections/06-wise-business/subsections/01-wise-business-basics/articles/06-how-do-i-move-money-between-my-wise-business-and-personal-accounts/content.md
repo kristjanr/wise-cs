@@ -1,5 +1,5 @@
-# How do I move money between my Wise business and personal accounts?
-
+# Wise Business basics  
+## How do I move money between my Wise business and personal accounts?  
 It’s easy to move money between your Wise accounts. First, you’ll need to make sure you open a balance that has bank details. Then, follow these steps:
 
 ### Find your bank details for receiving money

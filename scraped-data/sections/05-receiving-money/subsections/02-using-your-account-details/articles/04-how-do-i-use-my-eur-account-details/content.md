@@ -1,5 +1,5 @@
-# How do I use my EUR account details?
-
+# Using your account details  
+## How do I use my EUR account details?  
 ### What are EUR account details?
 
 These are your very own account details to receive euros (EUR) with zero fees.

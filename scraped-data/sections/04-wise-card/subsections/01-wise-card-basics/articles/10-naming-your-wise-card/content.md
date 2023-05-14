@@ -1,5 +1,5 @@
-# Naming your Wise card
-
+# Wise card basics  
+## Naming your Wise card  
 You can add a label to your Wise cards. This will make it easier to find the one you want to use. 
 
 To add a label to your card:

@@ -1,5 +1,5 @@
-# How is Wise regulated in each country?
-
+# Privacy and security  
+## How is Wise regulated in each country?  
 ### Australia
 
 Wise Australia Pty Ltd. is regulated by the Australian Securities and Investments Commission (ASIC) and holds an Australian Financial Services Licence (AFSL) and Australian Prudential Regulation Authority (APRA) authorised as an Authorised Deposit-taking Institution (ADI) limited to a provider of purchased payment facilities (“PPF licence”). Our AFSL licence number is 513764. It is also a reporting entity with the Australian Transaction Reports and Analysis Centre (AUSTRAC).

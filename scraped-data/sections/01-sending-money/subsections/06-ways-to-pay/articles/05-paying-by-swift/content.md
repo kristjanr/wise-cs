@@ -1,5 +1,5 @@
-# Paying by SWIFT
-
+# Ways to pay  
+## Paying by SWIFT  
 SWIFT payments, also called international wires, are a type of international transfer sent via the SWIFT international payment network. 
 
 The SWIFT international payment network is one of the largest financial messaging systems in the world. Wise can send or receive certain currencies via SWIFT payment.

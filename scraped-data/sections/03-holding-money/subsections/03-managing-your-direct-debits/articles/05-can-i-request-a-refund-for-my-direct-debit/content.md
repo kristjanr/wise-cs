@@ -1,5 +1,5 @@
-# Can I request a refund for my Direct Debit?
-
+# Managing your Direct Debits  
+## Can I request a refund for my Direct Debit?  
 ### Requesting a refund for my GBP or AUD Direct Debit payment
 
 If something went wrong with either the goods or services you paid for or the agreement you made with your merchant — you’ll need to contact the merchant directly to resolve the issue. We aren’t able to help negotiate with them in these situations.

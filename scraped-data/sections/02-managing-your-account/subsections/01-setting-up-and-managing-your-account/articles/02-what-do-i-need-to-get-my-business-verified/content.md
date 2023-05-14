@@ -1,5 +1,5 @@
-# What do I need to get my business verified?
-
+# Setting up and managing your account  
+## What do I need to get my business verified?  
 When you open a bank account, you usually need to provide documents to verify details about yourself and your business. Wise is no different.
 
 Verification is how we keep your business’s money safe, and comply with the financial regulations in the countries we operate in. We also make sure your business meets our Acceptable Use Policy. And we do everything we can to make it quick, painless, and completely online.

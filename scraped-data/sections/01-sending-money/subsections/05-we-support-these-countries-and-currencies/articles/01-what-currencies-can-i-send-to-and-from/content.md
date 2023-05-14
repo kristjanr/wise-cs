@@ -1,5 +1,5 @@
-# What currencies can I send to and from?
-
+# We support these countries and currencies  
+## What currencies can I send to and from?  
 ### You can send money to and from these currencies
 
 AUD — Australian dollar Within Australia.

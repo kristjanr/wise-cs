@@ -1,5 +1,5 @@
-# Is my money safe using Assets?
-
+# Using Assets  
+## Is my money safe using Assets?  
 ## If you’re in the EEA
 
 **What happens if Wise becomes insolvent?**

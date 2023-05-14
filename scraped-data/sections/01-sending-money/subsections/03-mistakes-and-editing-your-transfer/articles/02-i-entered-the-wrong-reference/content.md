@@ -1,5 +1,5 @@
-# I entered the wrong reference
-
+# Mistakes and editing your transfer  
+## I entered the wrong reference  
 If you’re making a transfer to a personal bank account, entering the wrong reference isn’t usually a problem. In most cases, it won’t stop your money being delivered.
 
 But wrong references can cause problems if you’re paying a company or business. Or it’s important that your money arrives with an accurate reference. In these cases, the fastest way to fix the problem is to cancel the transfer yourself, and set it up again using the correct reference.

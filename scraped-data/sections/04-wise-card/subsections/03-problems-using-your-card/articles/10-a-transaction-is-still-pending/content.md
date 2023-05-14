@@ -1,5 +1,5 @@
-# A transaction is still pending
-
+# Problems using your card  
+## A transaction is still pending  
 When you make a payment using your Wise card, the transaction might appear as pending at first. This is because transferring money from your account to the merchant goes through several steps and isn't always instant.
 
 A pending payment means that the merchant has reserved the money from your account, but hasn’t claimed it yet. It usually takes 3 – 4 days for the merchant to claim the money from your account. When they do, the transaction will change from pending to completed.

@@ -1,5 +1,5 @@
-# How do I make a complaint if my Balance or Jar is held as Assets?
-
+# Using Assets  
+## How do I make a complaint if my Balance or Jar is held as Assets?  
 We are sorry you didn't get the service you'd expect from Wise.
 
 If your complaint is related to a Balance or Jar held as Assets, get in touch with us by _sending us an email_. 

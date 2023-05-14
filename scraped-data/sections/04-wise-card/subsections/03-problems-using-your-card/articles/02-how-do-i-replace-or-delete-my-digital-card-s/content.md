@@ -1,5 +1,5 @@
-# How do I replace or delete my digital card(s)?
-
+# Problems using your card  
+## How do I replace or delete my digital card(s)?  
 ### Replace your digital card(s)
 
  **Limitation:** Please keep in mind that if you are in the United Kingdom, you can only create 1 digital card per day.

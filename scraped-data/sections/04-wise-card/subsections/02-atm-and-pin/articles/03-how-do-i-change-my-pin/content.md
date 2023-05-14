@@ -1,5 +1,5 @@
-# How do I change my PIN?
-
+# ATM and PIN  
+## How do I change my PIN?  
 We can’t change your PIN for you, but you may be able to change it at an ATM. It depends where your card was issued. 
 
 ### Non-US cardholders

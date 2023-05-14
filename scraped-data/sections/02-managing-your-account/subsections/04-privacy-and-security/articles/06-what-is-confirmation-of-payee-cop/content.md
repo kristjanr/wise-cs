@@ -1,5 +1,5 @@
-# What is Confirmation of Payee (CoP)?
-
+# Privacy and security  
+## What is Confirmation of Payee (CoP)?  
 ### What is Confirmation of Payee (CoP)? 
 
 Confirmation of Payee is a name-checking service. It allows people and businesses paying to a recipient in the UK to check whether the name they have entered matches the one on the recipient’s account. 

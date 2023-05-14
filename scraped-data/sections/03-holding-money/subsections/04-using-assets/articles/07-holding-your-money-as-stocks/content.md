@@ -1,5 +1,5 @@
-# Holding your money as Stocks
-
+# Using Assets  
+## Holding your money as Stocks  
 With Assets, you can decide how you'd like to hold the money in your Balances or Jars.
 
 Currently, you can choose Cash, Interest or Stocks. 

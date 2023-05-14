@@ -1,5 +1,5 @@
-# Getting started with the Wise card
-
+# Wise card basics  
+## Getting started with the Wise card  
 The Wise card lets you spend money around the world with low conversion fees and zero transaction fees. It’s currently available for Wise account-holder residents in Australia, Brazil, the EEA, Japan, New Zealand, Singapore, Malaysia, Switzerland, the UK, the US and Canada. 
 
 Here are some tips to help you get started.

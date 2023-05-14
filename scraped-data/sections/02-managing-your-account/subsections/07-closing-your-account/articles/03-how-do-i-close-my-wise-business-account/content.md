@@ -1,5 +1,5 @@
-# How do I close my Wise Business account?
-
+# Closing your account  
+## How do I close my Wise Business account?  
 When you sign up for a Wise Business account, you may or may not have a personal account attached to it. You can close just the business account, or both the personal and business accounts.
 
 In either scenario, there are a few things you can do before closing your account(s):

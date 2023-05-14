@@ -1,5 +1,5 @@
-# I need to report a fraudulent payment
-
+# Fraud and security  
+## I need to report a fraudulent payment  
 If you notice a payment in your Activity that you didn’t make, it may not be fraud. It could be a pending or delayed payment and will be resolved soon. So if you don’t recognise a transaction, check if it could be one of these things:
 
   *  **Pending payments from petrol/gas stations**. Petrol stations often preauthorise a maximum or estimated amount. The amount you actually spent should be charged in 1–3 days, and the rest will be automatically refunded to your account 

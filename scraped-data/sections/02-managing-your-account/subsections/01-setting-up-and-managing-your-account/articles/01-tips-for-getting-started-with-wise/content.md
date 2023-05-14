@@ -1,5 +1,5 @@
-# Tips for getting started with Wise
-
+# Setting up and managing your account  
+## Tips for getting started with Wise  
 Wise is an online account that lets you send money, get paid, and spend money internationally. With a Wise account, you can send money abroad, get paid in other currencies, and spend abroad on the Wise card.
 
 Here are some tips to help you get started. 

@@ -1,5 +1,5 @@
-# Licences and regulators when holding money as different Assets
-
+# Using Assets  
+## Licences and regulators when holding money as different Assets  
 The licence which you are subject to when holding Balances or Jars as different Assets will depend on:
 
   * the Asset you are currently **holding**

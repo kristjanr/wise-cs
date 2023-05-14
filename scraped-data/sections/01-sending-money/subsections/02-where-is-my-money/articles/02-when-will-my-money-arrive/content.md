@@ -1,5 +1,5 @@
-# When will my money arrive?
-
+# Where is my money?  
+## When will my money arrive?  
 When you make a transfer, we’ll give you an estimate for when your money should arrive. But, there are a few situations where you might have questions about timing. Here are some tips to help you understand when it’ll arrive, or why it’s delayed.
 
 #### Wise says that my transfer’s due to arrive today. 

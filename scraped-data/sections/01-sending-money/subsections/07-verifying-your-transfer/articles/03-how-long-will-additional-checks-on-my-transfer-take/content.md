@@ -1,5 +1,5 @@
-# How long will additional checks on my transfer take?
-
+# Verifying your transfer  
+## How long will additional checks on my transfer take?  
 While we try to process all transfers as fast as possible, sometimes we have to carry out checks on them, to keep your money safe.
 
 These checks usually take 2–10 working days, but occasionally they can take longer. We’ll usually update the delivery estimate to take this into account, so check it to see when your transfer will arrive.

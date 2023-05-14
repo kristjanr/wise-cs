@@ -1,5 +1,5 @@
-# What are Jars and how do I use them?
-
+# Holding money basics  
+## What are Jars and how do I use them?  
 Money in a Jar is kept separately from your balances. You can’t accidentally spend it with your debit card, and you can’t send it or use it to pay Direct Debits.
 
 You can open as many Jars as you need to organise your money.

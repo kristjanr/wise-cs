@@ -1,5 +1,5 @@
-# How do I use my TRY account details?
-
+# Using your account details  
+## How do I use my TRY account details?  
 _Due to regulation changes, we're no longer able to offer TRY account details to customers with a Türkiye address as of 31st March 2023._
 
  _We are also temporarily not able to offer TRY account details to customers outside of Türkiye._

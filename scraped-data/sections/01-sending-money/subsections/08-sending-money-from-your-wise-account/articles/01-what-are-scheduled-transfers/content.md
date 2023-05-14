@@ -1,5 +1,5 @@
-# What are scheduled transfers?
-
+# Sending money from your Wise account  
+## What are scheduled transfers?  
 Scheduled transfers are transfers you'd like to send out at a later date of your choice.
 
 Anyone can set up a scheduled transfer. If you don’t hold a Wise balance in the currency you’re planning to send money from, we’ll open one for you. You’ll use this account to see your money coming into Wise, and being sent to your recipient. 

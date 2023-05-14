@@ -1,5 +1,5 @@
-# My document wasn't good enough quality
-
+# Setting up and managing your account  
+## My document wasn't good enough quality  
 Part of the verification process involves our team reviewing what’s printed on the documents. We do this to check that it’s really you sending, spending, or receiving money. But if we can’t read what’s on a document, we have to reject it.
 
 ### When making a copy of a document, here’s what to check:

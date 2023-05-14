@@ -1,5 +1,5 @@
-# How long do refunds take?
-
+# Cancellations and refunds  
+## How long do refunds take?  
 The time it takes for a refund to get paid back into your account depends on a number of things. These include the way you paid for the transfer, the currency you paid with, and how long your bank takes to process refunds. 
 
 ### Refunds for bank transfers

@@ -1,5 +1,5 @@
-# I don't have the documents you asked for
-
+# Setting up and managing your account  
+## I don't have the documents you asked for  
 We know that it’s not always easy to get certain forms of ID. So we try our best to flexible. 
 
 In this article, we’ll let you know what kinds of ID we accept around the world, as well as what to do if you have refugee status. 

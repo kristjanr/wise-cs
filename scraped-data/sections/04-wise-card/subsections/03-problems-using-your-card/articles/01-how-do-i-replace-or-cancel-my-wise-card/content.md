@@ -1,5 +1,5 @@
-# How do I replace or cancel my Wise card?
-
+# Problems using your card  
+## How do I replace or cancel my Wise card?  
 You can replace your Wise card at any time for a small fee.
 
 On the app:

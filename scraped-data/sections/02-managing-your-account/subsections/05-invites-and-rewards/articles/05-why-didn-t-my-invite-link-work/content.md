@@ -1,5 +1,5 @@
-# Why didn't my invite link work?
-
+# Invites and rewards  
+## Why didn't my invite link work?  
 To invite people to Wise, you can give them your personal invite link — you’ll find this on your invite page. 
 
 You can send this to friends and family. When they follow the link and sign up they’ll receive a fee-free transfer. 

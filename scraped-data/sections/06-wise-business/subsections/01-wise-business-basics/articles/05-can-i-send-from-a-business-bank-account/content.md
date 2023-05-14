@@ -1,5 +1,5 @@
-# Can I send from a business bank account?
-
+# Wise Business basics  
+## Can I send from a business bank account?  
 Yes, as long as you have a Wise Business account. Unfortunately, we can’t accept payments from business bank accounts if you only have a personal Wise account. 
 
 **Tip:** Open a Wise Business account to send money from business bank accounts.

@@ -1,5 +1,5 @@
-# Assigning roles to your team
-
+# Inviting and managing team members  
+## Assigning roles to your team  
 Multi-user Access (MUA) lets your team have different levels of access to your Wise business account. 
 
 You can give the following roles to team members on your Wise business account:

@@ -1,5 +1,5 @@
-# I didn't get the goods/services I paid for
-
+# Fraud and security  
+## I didn't get the goods/services I paid for  
 ### Before you report an issue
 
 If you notice a payment in your activity that you didn’t make, it may not be fraud. It could be a pending or delayed payment, that may take a little longer to finalise. If you don’t recognise a transaction, first check if it could be one of these things:

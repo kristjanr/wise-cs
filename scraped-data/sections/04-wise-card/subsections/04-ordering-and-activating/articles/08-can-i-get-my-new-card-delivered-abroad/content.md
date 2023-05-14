@@ -1,5 +1,5 @@
-# Can I get my new card delivered abroad?
-
+# Ordering and activating  
+## Can I get my new card delivered abroad?  
 International delivery is available for Wise cards for most regions.
 
 ###  **Europe and UK**

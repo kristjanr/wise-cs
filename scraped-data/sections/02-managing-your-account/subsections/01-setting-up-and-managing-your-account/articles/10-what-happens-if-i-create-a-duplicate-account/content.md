@@ -1,5 +1,5 @@
-# What happens if I create a duplicate account?
-
+# Setting up and managing your account  
+## What happens if I create a duplicate account?  
 We’ll send an email to your registered email address if we notice this has happened — with 2 options to access your existing account: 
 
   1. Reset your password

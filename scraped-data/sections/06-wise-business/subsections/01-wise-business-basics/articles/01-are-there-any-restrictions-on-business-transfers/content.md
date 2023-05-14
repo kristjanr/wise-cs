@@ -1,5 +1,5 @@
-# Are there any restrictions on business transfers?
-
+# Wise Business basics  
+## Are there any restrictions on business transfers?  
 Wise is licensed to make personal transfers in all the countries we operate in. However in some cases, business transfers are slightly more limited. There are some currency routes which we can’t support business transfers to or from due to the way we’re regulated in those countries.
 
 For the majority of our supported currencies there are no restrictions on Wise receiving money from your business. 

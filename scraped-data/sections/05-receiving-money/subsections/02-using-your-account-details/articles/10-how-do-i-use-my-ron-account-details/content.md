@@ -1,5 +1,5 @@
-# How do I use my RON account details?
-
+# Using your account details  
+## How do I use my RON account details?  
 ### What are RON account details?
 
 These are your very own account details to receive Romanian leu (RON) with zero fees.

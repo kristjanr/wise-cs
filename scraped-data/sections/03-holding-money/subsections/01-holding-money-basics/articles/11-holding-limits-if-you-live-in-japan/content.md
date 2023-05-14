@@ -1,5 +1,5 @@
-# Holding limits if you live in Japan
-
+# Holding money basics  
+## Holding limits if you live in Japan  
 In order to be compliant with the Payment Services Act, Wise applies a holding limit on Japanese users’ e-wallets. 
 
 ##### What's the holding limit?

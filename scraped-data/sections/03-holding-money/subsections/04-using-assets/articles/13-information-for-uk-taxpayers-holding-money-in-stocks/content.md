@@ -1,5 +1,5 @@
-# Information for UK taxpayers holding money in Stocks
-
+# Using Assets  
+## Information for UK taxpayers holding money in Stocks  
 ###  **What to keep in mind when you’re a UK taxpayer and you hold your money in Stocks**
 
 If you’re a UK taxpayer — individual, or business — holding your money in Stocks can impact the way you pay tax. 

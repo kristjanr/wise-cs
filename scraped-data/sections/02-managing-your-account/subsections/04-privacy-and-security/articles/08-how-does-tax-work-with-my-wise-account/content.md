@@ -1,5 +1,5 @@
-# How does tax work with my Wise Account?
-
+# Privacy and security  
+## How does tax work with my Wise Account?  
 We know tax can be complicated and stressful, but here’s a breakdown of how tax works with your Wise account.
 
 Wise is required to follow local tax laws in every country we operate in. That means in some countries we might be required to:

@@ -1,5 +1,5 @@
-# How do I approve/reject a payment requiring approval?
-
+# Payment Approvals  
+## How do I approve/reject a payment requiring approval?  
 Currently, only Admins can approve or reject payments. 
 
 On the website or mobile app:

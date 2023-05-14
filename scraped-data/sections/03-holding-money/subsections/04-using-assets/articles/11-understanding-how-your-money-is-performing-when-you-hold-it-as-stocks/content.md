@@ -1,5 +1,5 @@
-# Understanding how your money is performing when you hold it as Stocks
-
+# Using Assets  
+## Understanding how your money is performing when you hold it as Stocks  
 ###  **Checking the performance of your investment using the app**
 
 The fastest way to check your Assets performance is via the app.

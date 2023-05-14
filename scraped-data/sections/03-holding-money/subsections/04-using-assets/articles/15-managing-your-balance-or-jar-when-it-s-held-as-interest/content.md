@@ -1,5 +1,5 @@
-# Managing your Balance or Jar when it's held as Interest
-
+# Using Assets  
+## Managing your Balance or Jar when it's held as Interest  
 Switching to Interest doesn’t change what you can do with your money. 
 
 Whenever you add or receive money, we’ll buy units in the fund we’ve chosen that are worth the same cash value. When you send or spend money (including using your Wise card), we’ll sell units worth the same cash value.

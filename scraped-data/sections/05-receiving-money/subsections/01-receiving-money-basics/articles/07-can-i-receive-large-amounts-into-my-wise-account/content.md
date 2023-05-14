@@ -1,5 +1,5 @@
-# Can I receive large amounts into my Wise account?
-
+# Receiving money basics  
+## Can I receive large amounts into my Wise account?  
 Yes, you can receive large amounts into any balance with account details. But there are a couple of things you should know beforehand. 
 
 ### We may ask you for more information

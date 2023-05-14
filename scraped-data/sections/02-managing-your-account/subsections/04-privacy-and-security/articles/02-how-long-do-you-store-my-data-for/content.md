@@ -1,5 +1,5 @@
-# How long do you store my data for?
-
+# Privacy and security  
+## How long do you store my data for?  
 Because we’re a regulated financial institution, Wise is obliged to store some of your personal and transactional data. 
 
 Only a small number of our employees can see that data, and they’ll only look at it if they absolutely need to. We always delete information that we no longer need. And everything we need to keep is subject to the highest levels of security. 

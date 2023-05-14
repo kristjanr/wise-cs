@@ -1,5 +1,5 @@
-# How do I download a transfer receipt?
-
+# Sending money basics  
+## How do I download a transfer receipt?  
 Once your transfer is complete, you can download a receipt. The transfer might show up on your recipient’s Wise account — but only you can download the receipt. If you are the recipient of the transfer and need the receipt, we recommend you get in touch with the sender who can forward it to you. 
 
 The receipt serves as a confirmation of your transfer and includes details like the transfer number and banking partner reference. And when you send certain currencies, it’ll also include a unique tracking number.

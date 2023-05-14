@@ -1,5 +1,5 @@
-# Understanding conversion when you hold money as Stocks
-
+# Using Assets  
+## Understanding conversion when you hold money as Stocks  
 When a Balance is held as Stocks, it’s invested in the iShares World Equity index fund which trades in **Euros (EUR)** \- this means units of the fund are always bought and sold in EUR.
 
 You can switch a Balance or Jar held in any currency to Stocks. This means **a conversion will apply** when you buy or sell units if your balance is not held in the trading currency.

@@ -1,5 +1,5 @@
-# I've forgotten my password
-
+# Logging in  
+## I've forgotten my password  
 If you're logged out and can't remember your password, you'll need to reset it.
 
 Reset your password

@@ -1,5 +1,5 @@
-# How do I request money?
-
+# Receiving money basics  
+## How do I request money?  
 Creating a payment request is free and easy with Wise. Our payment request feature is available once you’ve opened a balance and have account details enabled. 
 
 ### **Here’s how to request money:**

@@ -1,5 +1,5 @@
-# I got my recipient's bank details wrong
-
+# Managing your recipients  
+## I got my recipient's bank details wrong  
 Everyone makes mistakes. And the fastest way to fix this one is by cancelling the transfer yourself. You can then set up a new transfer using the correct bank details.
 
 Whether or not you can cancel depends on how far along your transfer is in our system. So before you get started, check the status of your transfer.

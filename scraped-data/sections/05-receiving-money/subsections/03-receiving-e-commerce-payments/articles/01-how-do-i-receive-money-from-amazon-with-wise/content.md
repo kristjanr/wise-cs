@@ -1,5 +1,5 @@
-# How do I receive money from Amazon with Wise?
-
+# Receiving e-commerce payments  
+## How do I receive money from Amazon with Wise?  
 If you sell on multiple Amazon marketplaces, you can withdraw your different currency earnings directly into your Wise account. This way, you’ll avoid paying high currency conversion fees.
 
 Wise account details are compatible with Amazon US, Amazon Europe, Amazon UK and Amazon Australia. 

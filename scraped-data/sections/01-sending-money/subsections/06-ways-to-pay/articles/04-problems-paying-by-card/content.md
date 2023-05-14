@@ -1,5 +1,5 @@
-# Problems paying by card
-
+# Ways to pay  
+## Problems paying by card  
 Debit and credit card payments can be unsuccessful for a number of reasons. If an error message appears on your screen after you try to pay, or if we confirm your payment has not been successful, then you have not been charged.
 
 ### Payment declined by your bank

@@ -1,5 +1,5 @@
-# How can I check the status of my transfer?
-
+# Where is my money?  
+## How can I check the status of my transfer?  
 For every transfer you set up, we try to give you as much information as possible in our money tracker. It’s so you can see where your money is at every step. To check the money tracker:
 
   1. Log in to your Wise account

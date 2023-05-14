@@ -1,5 +1,5 @@
-# How does Wise verify my business address?
-
+# Managing and verifying your business account  
+## How does Wise verify my business address?  
 If your business is already verified and you need to change its address, we might ask you to upload a copy of a document confirming your business address.
 
 Please make sure the document shows:

@@ -1,5 +1,5 @@
-# How do I get a refund if my digital card was replaced or deleted?
-
+# Problems using your card  
+## How do I get a refund if my digital card was replaced or deleted?  
 Even if your card details were replaced or deleted, you can still receive a refund to your account.
 
 If the merchant asks for the last four digits of the card, you can find this on the app*: 

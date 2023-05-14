@@ -1,5 +1,5 @@
-# I didn't get my reward
-
+# Invites and rewards  
+## I didn't get my reward  
 You’ll qualify for your reward after your last invite has made their _qualifying transfer_. And it can take up to 5 working days for the reward to be ready to claim. 
 
 Once your reward is ready, we’ll send you an email with info on how you can claim it.

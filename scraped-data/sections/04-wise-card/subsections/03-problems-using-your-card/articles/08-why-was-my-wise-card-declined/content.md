@@ -1,5 +1,5 @@
-# Why was my Wise card declined?
-
+# Problems using your card  
+## Why was my Wise card declined?  
 If we have to decline your card payment, we'll tell you the reason — you can see it in your **Transactions.** And if you have push notifications or transaction emails turned on, we’ll tell you the reason there and then. You can manage your notifications in Settings.
 
 We might not have this information when the merchant declines the payment and you'll only see that it wasn't successful. Just contact the merchant for more information about the decline reason. 

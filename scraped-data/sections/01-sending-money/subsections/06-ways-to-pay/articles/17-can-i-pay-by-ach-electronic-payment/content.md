@@ -1,5 +1,5 @@
-# Can I pay by ACH electronic payment?
-
+# Ways to pay  
+## Can I pay by ACH electronic payment?  
 Yes, but we don’t encourage this, as an ACH Debit is much easier and safer.
 
 If you do need to make an ACH electronic payment though, it’s helpful to know that if you’re in a licensed state, you can use the same account details for payments to Wise for both wire and electronic payments.

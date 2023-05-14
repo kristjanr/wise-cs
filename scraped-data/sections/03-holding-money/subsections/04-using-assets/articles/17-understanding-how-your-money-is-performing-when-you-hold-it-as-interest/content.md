@@ -1,5 +1,5 @@
-# Understanding how your money is performing when you hold it as Interest
-
+# Using Assets  
+## Understanding how your money is performing when you hold it as Interest  
 ##  **How to check how your money is performing**
 
 The fastest way to check your Assets' performance is via the app.

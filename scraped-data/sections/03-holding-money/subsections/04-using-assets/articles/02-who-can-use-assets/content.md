@@ -1,5 +1,5 @@
-# Who can use Assets?
-
+# Using Assets  
+## Who can use Assets?  
 We’d like to offer Assets to everyone but right now it is only available to residents of the following regions: 
 
 ### **UK**

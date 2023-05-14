@@ -1,5 +1,5 @@
-# What's a banking partner reference number?
-
+# Where is my money?  
+## What's a banking partner reference number?  
 For every transfer you send with Wise, we give you a transfer number, which you can use if you need to get in touch with us.
 
 For some transfers, we’ll also give you a banking partner reference number. It’s called this because we send out your money through local banking partners in each country.

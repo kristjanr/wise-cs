@@ -1,5 +1,5 @@
-# How can I change the name on my Wise card?
-
+# Ordering and activating  
+## How can I change the name on my Wise card?  
 ### Before you complete your card order
 
  **Personal cards**

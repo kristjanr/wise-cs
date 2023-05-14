@@ -1,5 +1,5 @@
-# What documents might I need for a large transfer?
-
+# Sending large transfers  
+## What documents might I need for a large transfer?  
 When you send a large amount with Wise, we need to verify your account as usual.
 
 But, depending on how much you send, we might also need to check how you got the money for this transfer. And we might ask to see some documents as proof.

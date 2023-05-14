@@ -1,5 +1,5 @@
-# How Wise keeps your money safe
-
+# Holding money basics  
+## How Wise keeps your money safe  
 We’re licensed to hold your money and, as part of keeping it safe, we follow strict rules set out by the regulators in the countries where we operate. 
 
 As of 30 September 2022, our customers are trusting us with the equivalent of 9.2 billion GBP in their Wise accounts.

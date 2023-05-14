@@ -1,5 +1,5 @@
-# I live in Australia, what fee am I charged to hold large amounts of money?
-
+# Holding money basics  
+## I live in Australia, what fee am I charged to hold large amounts of money?  
 We charge a daily fee for holding large amounts in your balances if you live in Australia. 
 
 ### Why am I being charged this fee? 

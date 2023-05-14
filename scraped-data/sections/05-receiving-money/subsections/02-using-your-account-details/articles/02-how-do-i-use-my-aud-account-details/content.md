@@ -1,5 +1,5 @@
-# How do I use my AUD account details?
-
+# Using your account details  
+## How do I use my AUD account details?  
 ### What are AUD account details?
 
 These are your very own account details to receive Australian dollars (AUD) with zero fees.

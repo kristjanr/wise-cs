@@ -1,5 +1,5 @@
-# How do I change my spending limits?
-
+# Wise card basics  
+## How do I change my spending limits?  
 You can change your card’s spending limits on the app or website. There are only two settings — the maximum and the default limit.
 
  **On the app**

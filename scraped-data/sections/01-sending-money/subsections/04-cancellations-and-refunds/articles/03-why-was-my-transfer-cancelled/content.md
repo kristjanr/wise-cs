@@ -1,5 +1,5 @@
-# Why was my transfer cancelled?
-
+# Cancellations and refunds  
+## Why was my transfer cancelled?  
 Sometimes, Wise will cancel your transfer. There are a few reasons why we might do this — here are some of the most common ones.
 
 ### You didn’t pay for the transfer

@@ -1,5 +1,5 @@
-# Tips for getting started with large transfers
-
+# Sending large transfers  
+## Tips for getting started with large transfers  
 It can be daunting to send a lot of money abroad. So when you make a large transfer, we make things as easy as possible.
 
 Here are some tips to help you get started.

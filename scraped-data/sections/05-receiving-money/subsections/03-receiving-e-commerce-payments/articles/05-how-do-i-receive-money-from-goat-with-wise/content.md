@@ -1,5 +1,5 @@
-# How do I receive money from GOAT with Wise?
-
+# Receiving e-commerce payments  
+## How do I receive money from GOAT with Wise?  
 GOAT is a platform where individuals and businesses can list and sell authentic sneakers, apparel, and accessories. 
 
 GOAT app users can use their Wise account to receive payments from GOAT in USD.

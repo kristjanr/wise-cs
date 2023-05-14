@@ -1,5 +1,5 @@
-# I may be the victim of fraud or a scam
-
+# Fraud and complaints  
+## I may be the victim of fraud or a scam  
 If you’ve **sent money using Wise** , or if you’ve sent money to a Wise account, and think you’ve been scammed, this is what you should do:
 
   *  **If you’re a Wise customer,**get in touch with us straight away. Log in to your account to get help from us. We might be able to stop the transfer before it goes through.

@@ -1,5 +1,5 @@
-# How can I convert money?
-
+# Holding money basics  
+## How can I convert money?  
 To convert money:
 
   1. Go to **Home** and select which balance you’d like to convert from

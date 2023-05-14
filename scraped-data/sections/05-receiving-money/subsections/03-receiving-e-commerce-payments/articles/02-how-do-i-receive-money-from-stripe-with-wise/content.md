@@ -1,5 +1,5 @@
-# How do I receive money from Stripe with Wise?
-
+# Receiving e-commerce payments  
+## How do I receive money from Stripe with Wise?  
 You can link your Wise account to Stripe to receive money. However, it will only work with some account details. 
 
 ### Supported account details

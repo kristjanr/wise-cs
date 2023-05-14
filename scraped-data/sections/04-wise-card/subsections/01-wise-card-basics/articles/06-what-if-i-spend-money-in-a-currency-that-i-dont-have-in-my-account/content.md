@@ -1,5 +1,5 @@
-# What if I spend money in a currency that I don’t have in my account?
-
+# Wise card basics  
+## What if I spend money in a currency that I don’t have in my account?  
 If you don’t have the currency you need in your account, you can still spend money. Our Smart Conversion technology will automatically convert the balance for you that has the lowest conversion fee. 
 
 If the currencies that you hold in your account have the same conversion fees, we'll use the one with the best exchange rate, so you get the most for your money.

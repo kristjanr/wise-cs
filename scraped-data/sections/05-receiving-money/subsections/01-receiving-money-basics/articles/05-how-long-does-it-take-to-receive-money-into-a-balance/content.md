@@ -1,5 +1,5 @@
-# How long does it take to receive money into a balance?
-
+# Receiving money basics  
+## How long does it take to receive money into a balance?  
 How long it takes depends on the currency you receive. 
 
 **Receiving USD**

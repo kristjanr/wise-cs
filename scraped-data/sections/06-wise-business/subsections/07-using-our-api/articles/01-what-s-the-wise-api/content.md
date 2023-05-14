@@ -1,5 +1,5 @@
-# What's the Wise API?
-
+# Using our API  
+## What's the Wise API?  
 ### What's the Wise API?
 
 API helps you connect your business with Wise to automate your interaction with us. With API you won’t even need to log in to Wise to set up transfers - instead, all this and more can be automated. This allows you to significantly improve your (and your recipients') experience. Also, our API is free to use.

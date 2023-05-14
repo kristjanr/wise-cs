@@ -1,5 +1,5 @@
-# I need to change my phone number
-
+# Account and settings  
+## I need to change my phone number  
 You’ll need to update your phone number on your account _before_ getting rid of your old SIM. ****
 
 Learn how to change your phone number if you can't log in

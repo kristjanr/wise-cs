@@ -1,5 +1,5 @@
-# I entered my recipient's email incorrectly
-
+# Managing your recipients  
+## I entered my recipient's email incorrectly  
 Whether or not this is a problem depends on the kind of transfer you’ve made:
 
   *  **It’s not a problem** if you sent money to your recipient’s bank account, and entered their bank details when you set up your transfer.

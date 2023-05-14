@@ -1,5 +1,5 @@
-# How do I use my Wise card with Google Pay?
-
+# Mobile wallet  
+## How do I use my Wise card with Google Pay?  
 For general information about how to use or manage your cards on Google Pay, visit the Google Pay Help website.
 
 ### Can I add my Wise card to Google Pay?

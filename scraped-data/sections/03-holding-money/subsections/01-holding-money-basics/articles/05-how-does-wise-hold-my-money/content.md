@@ -1,5 +1,5 @@
-# How does Wise hold my money?
-
+# Holding money basics  
+## How does Wise hold my money?  
 Wise is a _non-bank payment provider_. This means your Wise account is an electronic money account. 
 
 This makes your Wise account different from a bank account. Some of the differences are:

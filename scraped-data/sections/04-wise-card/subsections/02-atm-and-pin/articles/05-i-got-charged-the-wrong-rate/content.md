@@ -1,5 +1,5 @@
-# I got charged the wrong rate
-
+# ATM and PIN  
+## I got charged the wrong rate  
 When you use an ATM or a card machine, it may ask if you want the ATM to convert your money for you.
 
 Keep in mind for Brazil card holders: the smart conversion doesn't work when Brazilian Real (BRL) currency is involved.

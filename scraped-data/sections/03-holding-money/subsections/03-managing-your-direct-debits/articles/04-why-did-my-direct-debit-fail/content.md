@@ -1,5 +1,5 @@
-# Why did my Direct Debit fail?
-
+# Managing your Direct Debits  
+## Why did my Direct Debit fail?  
 Your Direct Debit can fail for a number of reasons, most of the time we’ll be able to give you some information of what happened. You can find this by going to **Home** in your account and finding the failed transaction.
 
 Here’s some of the reasons your Direct Debit might have failed:

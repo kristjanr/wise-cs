@@ -1,5 +1,5 @@
-# I need to edit details on a business account
-
+# Managing and verifying your business account  
+## I need to edit details on a business account  
 ### If your business isn’t verified
 
 If your business hasn’t been verified yet, follow these steps to edit your details:

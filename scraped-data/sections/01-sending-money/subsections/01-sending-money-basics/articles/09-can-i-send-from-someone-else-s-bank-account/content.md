@@ -1,5 +1,5 @@
-# Can I send from someone else's bank account?
-
+# Sending money basics  
+## Can I send from someone else's bank account?  
 In most cases, no — the name on the bank account you’re sending from has to match the name on your Wise account. 
 
 But there are two exceptions:

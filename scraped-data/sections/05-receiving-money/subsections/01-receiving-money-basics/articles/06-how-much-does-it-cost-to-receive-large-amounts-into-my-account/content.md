@@ -1,5 +1,5 @@
-# How much does it cost to receive large amounts into my account?
-
+# Receiving money basics  
+## How much does it cost to receive large amounts into my account?  
 Check the latest fees for receiving money.
 
  **Fees when receiving USD**

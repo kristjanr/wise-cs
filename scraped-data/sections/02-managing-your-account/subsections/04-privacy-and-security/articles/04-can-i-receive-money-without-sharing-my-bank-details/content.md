@@ -1,5 +1,5 @@
-# Can I receive money without sharing my bank details?
-
+# Privacy and security  
+## Can I receive money without sharing my bank details?  
 If the **Contacts on Wise** feature is enabled, other people who know you can sync their contacts and you’ll show up in their **Recipients**. This is only possible for personal account holders. 
 
 They can also send money with only your email address. This is possible for both personal and business accounts.

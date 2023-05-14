@@ -1,5 +1,5 @@
-# Are there limits on how much money I can receive?
-
+# Receiving money basics  
+## Are there limits on how much money I can receive?  
 For most people, there are no limits on how much you can receive and hold right now.
 
 There are a few exceptions: 

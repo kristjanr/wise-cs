@@ -1,5 +1,5 @@
-# Why do I get an error when I upload my file?
-
+# Batch payments  
+## Why do I get an error when I upload my file?  
 If you receive an error message after you upload your batch payment file, we’ll show you which transfers have errors and why on screen at the “Review Transfers” step.
 
 You can download “a copy of these errors” to fix those transfers later and continue with the rest. Alternatively, you can fix the errors within the file and reupload it.

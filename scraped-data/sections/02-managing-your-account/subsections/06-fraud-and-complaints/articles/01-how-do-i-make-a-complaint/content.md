@@ -1,5 +1,5 @@
-# How do I make a complaint?
-
+# Fraud and complaints  
+## How do I make a complaint?  
 We’re sorry you didn’t get the service you’d expect from Wise. If you’re experiencing an issue, you can log in to contact us first, and we'll look into it for you.
 
 If your account was deactivated, you can always make an appeal, and we’ll review your details again to see if we can reactivate your account. 

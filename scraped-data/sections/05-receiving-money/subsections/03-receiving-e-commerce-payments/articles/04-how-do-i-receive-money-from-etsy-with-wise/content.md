@@ -1,5 +1,5 @@
-# How do I receive money from Etsy with Wise?
-
+# Receiving e-commerce payments  
+## How do I receive money from Etsy with Wise?  
 Etsy is a marketplace platform where businesses and individuals can sell handmade products from around the world.
 
 When creating your Etsy account, you’ll need to enter your Shop country (this is where you or your business is located) and your Shop currency (this is the currency you want to withdraw from Etsy). 

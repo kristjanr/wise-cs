@@ -1,5 +1,5 @@
-# Paying with Trustly
-
+# Ways to pay  
+## Paying with Trustly  
 Trustly is a convenient payment method that works through your online banking. Here’s some basic information about how it works.
 
   * Trustly is only available for bank accounts in Estonia and Finland in the Eurozone, and bank accounts in Sweden and Denmark outside the Eurozone

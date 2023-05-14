@@ -1,5 +1,5 @@
-# How much does it cost to send money from a balance?
-
+# Sending money from your Wise account  
+## How much does it cost to send money from a balance?  
 If you’re sending money from your account to someone else's balance (of the same currency), it’s free.
 
 If you’re sending money from your account to a bank account outside of Wise, we charge a fixed fee. 

@@ -1,5 +1,5 @@
-# How do I close my balances?
-
+# Holding money basics  
+## How do I close my balances?  
 To close your balances, you’ll need to remove each currency one by one. Before you can do that, you’ll need to make sure there’s no money in that balance. To withdraw money:
 
   1. Go to **Home** and select the balance you want to withdraw from

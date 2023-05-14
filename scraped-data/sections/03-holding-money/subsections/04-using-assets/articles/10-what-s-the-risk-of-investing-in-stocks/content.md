@@ -1,5 +1,5 @@
-# What's the risk of investing in Stocks?
-
+# Using Assets  
+## What's the risk of investing in Stocks?  
 When you choose to hold your money as Stocks, you’re investing in an index-tracking fund we’ve chosen — the iShares World Equity Index Fund, managed by BlackRock.
 
 ### What’s the risk?

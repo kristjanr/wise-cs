@@ -1,5 +1,5 @@
-# How do I make sure my invites count towards my reward?
-
+# Invites and rewards  
+## How do I make sure my invites count towards my reward?  
 To count towards your reward, your friend needs to:
 
   1. Sign up with your invite link

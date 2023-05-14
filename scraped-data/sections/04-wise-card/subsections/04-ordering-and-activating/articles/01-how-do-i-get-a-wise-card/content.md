@@ -1,5 +1,5 @@
-# How do I get a Wise card?
-
+# Ordering and activating  
+## How do I get a Wise card?  
 ### Can I get the card?
 
 The Wise card is currently available in the UK, the US, Switzerland, Australia, New Zealand, Singapore, Malaysia, Japan, Canada, Brazil and most of the EEA. There are a few exceptions, so check the list of eligible countries.

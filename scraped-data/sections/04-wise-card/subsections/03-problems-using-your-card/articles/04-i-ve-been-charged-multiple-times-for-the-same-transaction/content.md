@@ -1,5 +1,5 @@
-# I've been charged multiple times for the same transaction?
-
+# Problems using your card  
+## I've been charged multiple times for the same transaction?  
 Seeing multiple charges for a single transaction can be worrying — but it doesn’t necessarily mean you’ll be charged multiple times. 
 
 ### Why do multiple charges happen?

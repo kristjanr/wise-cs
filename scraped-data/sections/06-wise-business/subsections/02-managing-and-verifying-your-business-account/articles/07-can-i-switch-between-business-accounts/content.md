@@ -1,5 +1,5 @@
-# Can I switch between business accounts?
-
+# Managing and verifying your business account  
+## Can I switch between business accounts?  
 If you’ve got a business account set up — or you have access to several business accounts — it’s easy to switch between them. Please always make sure to check which account you’re using before creating a transfer.
 
  **Website**

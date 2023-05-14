@@ -1,5 +1,5 @@
-# How do I check the details of an approved/rejected transfer?
-
+# Payment Approvals  
+## How do I check the details of an approved/rejected transfer?  
 Transfers that have been set up and are awaiting approval will appear in the **Needs your attention** section on the top of the Home page. After a transfer is approved/ rejected, it will appear amongst your other transfers in the Activity feed.
 
 ### How do I know who approved/ rejected a transfer?

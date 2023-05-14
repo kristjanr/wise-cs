@@ -1,5 +1,5 @@
-# I need to reverse a transaction
-
+# Problems using your card  
+## I need to reverse a transaction  
 Reversing a card transaction — sometimes called a ‘chargeback’ — is a process where you dispute a card transaction, and ask for a refund from the merchant. The ‘merchant’ in this case is usually a shop, retailer, or business.
 
  **How do I reverse a transaction on my Wise card?**

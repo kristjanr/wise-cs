@@ -1,5 +1,5 @@
-# I want to disconnect my social account
-
+# Logging in  
+## I want to disconnect my social account  
 You are connected to Wise with a social account if you log in with Google, Facebook, or Apple ID. Once you disconnect your social account, you can’t reconnect again in the future. 
 
 To disconnect your social account on the website:

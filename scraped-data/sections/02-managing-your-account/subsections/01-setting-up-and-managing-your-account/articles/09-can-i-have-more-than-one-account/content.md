@@ -1,5 +1,5 @@
-# Can I have more than one account?
-
+# Setting up and managing your account  
+## Can I have more than one account?  
 You can only have one personal account with Wise.
 
 Learn what to do if you create a duplicate account

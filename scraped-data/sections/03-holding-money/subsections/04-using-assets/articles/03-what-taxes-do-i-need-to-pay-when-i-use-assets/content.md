@@ -1,5 +1,5 @@
-# What taxes do I need to pay when I use Assets?
-
+# Using Assets  
+## What taxes do I need to pay when I use Assets?  
 When you hold your money as different Assets, you might have to pay tax on your earnings.
 
 What you’ll need to pay depends on:

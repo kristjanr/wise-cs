@@ -1,5 +1,5 @@
-# How do I connect my business account with my Xero account?
-
+# Connecting to accounting software  
+## How do I connect my business account with my Xero account?  
 It’s quick, easy, and free to connect your Wise and Xero accounts. 
 
 **1\. Log in to your Wise Business account.** If you don’t have an account, you can sign up for one here. You can also find Wise on the Xero Marketplace. 

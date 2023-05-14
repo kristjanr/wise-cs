@@ -1,5 +1,5 @@
-# Paying for a transfer with Apple or Google Pay
-
+# Ways to pay  
+## Paying for a transfer with Apple or Google Pay  
 #### For the most up to date information on your fees, please see the Terms of Use for your region.
 
 If you’ve enabled Apple Pay or Google Pay on your device, you’ll usually be able to use it to pay for a transfer with Wise. 

@@ -1,5 +1,5 @@
-# Connecting your Wise account with FreeAgent
-
+# Connecting to accounting software  
+## Connecting your Wise account with FreeAgent  
 To connect your Wise account with your FreeAgent account:
 
   1. Log in to your FreeAgent account

@@ -1,5 +1,5 @@
-# What's a guaranteed rate?
-
+# Rates and fees  
+## What's a guaranteed rate?  
 A guaranteed rate is exactly what you’d expect: an exchange rate that’s guaranteed for a specified period of time. We offer guaranteed rates for all of our transfers. 
 
 As you finish setting up your transfer, we’ll guarantee your rate for a certain period of time. It’s important that you send your money to us right away so we receive your money on time. As long as we receive your money on time, you’ll get that rate locked.

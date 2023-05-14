@@ -1,5 +1,5 @@
-# How do I use my Wise card with Samsung Pay?
-
+# Mobile wallet  
+## How do I use my Wise card with Samsung Pay?  
 This article covers where you can use the Wise card with Samsung Pay, how to set it up, and limits. For general information about how to use Samsung Pay, visit the Samsung Support website.
 
 ### Where does the Wise card work with Samsung Pay?

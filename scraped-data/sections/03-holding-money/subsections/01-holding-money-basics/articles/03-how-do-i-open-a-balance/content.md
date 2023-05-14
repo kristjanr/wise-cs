@@ -1,5 +1,5 @@
-# How do I open a balance?
-
+# Holding money basics  
+## How do I open a balance?  
 To open a balance, you’ll need to:
 
   1. Go to **Home** on the website or app.

@@ -1,5 +1,5 @@
-# Tips for paying invoices
-
+# Wise Business basics  
+## Tips for paying invoices  
 If you need to make transfers or pay invoices from your business account, the tips below should assist you in making sure your money arrives safely and your recipient gets the exact amount they need.
 
 Adding a reference Sending an exact amount

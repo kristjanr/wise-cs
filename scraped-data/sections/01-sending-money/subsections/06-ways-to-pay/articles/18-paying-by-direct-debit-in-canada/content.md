@@ -1,5 +1,5 @@
-# Paying by direct debit in Canada
-
+# Ways to pay  
+## Paying by direct debit in Canada  
 When you pay by direct debit, you enter your bank information and authorise a one-time debit from your checking account to ours. You need to do this each time you pay by direct debit. 
 
 Direct debit in Canada is also known as an EFT (Electronic Funds Transfer) payment.

@@ -1,5 +1,5 @@
-# Connecting your Wise account with QuickBooks
-
+# Connecting to accounting software  
+## Connecting your Wise account with QuickBooks  
 To connect your Wise account with your QuickBooks account:
 
   1. Log in to your QuickBooks account

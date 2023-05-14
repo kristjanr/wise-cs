@@ -1,5 +1,5 @@
-# Receiving payments for Indian businesses
-
+# Managing and verifying your business account  
+## Receiving payments for Indian businesses  
 Your international clients can send money to your Indian business using your **account details** with Wise. 
 
 ## What are account details?

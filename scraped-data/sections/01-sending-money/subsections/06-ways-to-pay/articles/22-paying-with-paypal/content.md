@@ -1,5 +1,5 @@
-# Paying with PayPal
-
+# Ways to pay  
+## Paying with PayPal  
 PayPal is a EUR payment method that is available for accounts located within the European Economic Area (EEA). It’s a simple and convenient way to pay for your transfer if you use Wise for personal reasons — unfortunately, it’s not available for businesses yet.
 
 PayPal pay-in is now available on our website and mobile apps (iOS and Android). The name on your PayPal account must match the name on your Wise account — if the names don’t match, we can’t process your transfer.

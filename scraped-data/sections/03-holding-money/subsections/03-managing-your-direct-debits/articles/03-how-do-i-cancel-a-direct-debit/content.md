@@ -1,5 +1,5 @@
-# How do I cancel a Direct Debit?
-
+# Managing your Direct Debits  
+## How do I cancel a Direct Debit?  
 To get to your Direct Debits on the website:
 
   * Go to **Manage**

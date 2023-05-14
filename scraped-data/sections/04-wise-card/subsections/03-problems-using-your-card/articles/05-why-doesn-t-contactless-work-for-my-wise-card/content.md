@@ -1,5 +1,5 @@
-# Why doesn't contactless work for my Wise card?
-
+# Problems using your card  
+## Why doesn't contactless work for my Wise card?  
 Contactless payments allow you to tap your card rather than providing a PIN or signature. They’re common in the UK, EEA, Australia, New Zealand, Singapore, Malaysia, Japan and Canada. They’re a safe way to make small payments, with secure encryption technology.
 
 If contactless isn’t working with your Wise card, there are a few potential solutions.

@@ -1,5 +1,5 @@
-# How long do refunds to my Wise card take?
-
+# Problems using your card  
+## How long do refunds to my Wise card take?  
 Every merchant has their own refund policy, so be sure to check the merchant’s website and terms of use. Once the merchant has sent your refund, **it typically takes 5–10 working days for the money to arrive** in your account. **If you’ve been waiting for more than 10 working days, get in touch with the merchant first.**
 
 Sadly, we can’t track or see refunds until the money arrives to us. But we’ll always automatically deposit the money directly into the balance it came from when we receive it. 

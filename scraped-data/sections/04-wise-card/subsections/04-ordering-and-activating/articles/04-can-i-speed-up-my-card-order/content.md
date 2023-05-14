@@ -1,5 +1,5 @@
-# Can I speed up my card order?
-
+# Ordering and activating  
+## Can I speed up my card order?  
 **If you ordered your card in the UK, EEA, Australia, Canada, New Zealand, Malaysia or Japan** — you can speed up your first-time or replacement card(s) order.
 
  **If you ordered your card in the Singapore** — you can speed up the card order if the delivery address is outside Singapore. 

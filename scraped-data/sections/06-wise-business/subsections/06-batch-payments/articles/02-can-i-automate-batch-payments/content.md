@@ -1,5 +1,5 @@
-# Can I automate batch payments?
-
+# Batch payments  
+## Can I automate batch payments?  
 If you’re interested in automating your payments, you can integrate with our open API.
 
 Wise opened its API to help businesses streamline their workflows. By using it, not only can you automate payments — you can also connect your business tools to Wise, and create other ways to manage your finances.

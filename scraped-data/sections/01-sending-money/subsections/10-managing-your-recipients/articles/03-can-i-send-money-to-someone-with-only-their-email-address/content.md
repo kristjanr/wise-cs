@@ -1,5 +1,5 @@
-# Can I send money to someone with only their email address?
-
+# Managing your recipients  
+## Can I send money to someone with only their email address?  
 If you don’t know your recipient’s bank details, you can usually send money to them using their email address or use our money to link feature.
 
   * If they’re on Wise, we’ll try to find their account details. 

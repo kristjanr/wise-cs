@@ -1,5 +1,5 @@
-# Can my business get a Wise card?
-
+# Wise Business basics  
+## Can my business get a Wise card?  
 You can use your card to pay business expenses and spend online or in-store anywhere in the world. If you don’t have the currency in your account, we will automatically convert the amount for you.
 
 The Wise Business card is currently available for Wise Business users in the following countries and regions. You can also get a Wise digital card for your business

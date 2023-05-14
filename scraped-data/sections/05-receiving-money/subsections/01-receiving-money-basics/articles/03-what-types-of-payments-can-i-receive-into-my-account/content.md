@@ -1,5 +1,5 @@
-# What types of payments can I receive into my account?
-
+# Receiving money basics  
+## What types of payments can I receive into my account?  
 The type of payments you can receive depends on the currency. 
 
 We can’t accept cash or cheque payments for any currency. 

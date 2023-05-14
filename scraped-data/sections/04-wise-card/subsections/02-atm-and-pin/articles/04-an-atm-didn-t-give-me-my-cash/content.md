@@ -1,5 +1,5 @@
-# An ATM didn't give me my cash
-
+# ATM and PIN  
+## An ATM didn't give me my cash  
 In most cases, the ATM provider will know that there was an error, and the money will automatically be returned to your balance within a few minutes.
 
 If that doesn’t happen, you have 2 options:

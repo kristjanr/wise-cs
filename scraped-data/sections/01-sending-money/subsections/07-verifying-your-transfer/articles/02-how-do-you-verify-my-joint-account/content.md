@@ -1,5 +1,5 @@
-# How do you verify my joint account?
-
+# Verifying your transfer  
+## How do you verify my joint account?  
 We need you to upload a screenshot or PDF of your bank statement where we can see:
 
   * your first and last name

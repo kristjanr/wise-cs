@@ -1,5 +1,5 @@
-# How do I get my reward?
-
+# Invites and rewards  
+## How do I get my reward?  
 Once you’ve qualified for your reward, we’ll send you an email with info on how to claim it. 
 
 ### Can I get my invite reward in a different currency or account?

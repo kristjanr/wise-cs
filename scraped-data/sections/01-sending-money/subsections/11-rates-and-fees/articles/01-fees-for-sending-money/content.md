@@ -1,5 +1,5 @@
-# Fees for sending money
-
+# Rates and fees  
+## Fees for sending money  
 To see exactly how much your transfer could cost, visit our pricing page. Or read on for a bit more detail on how we work the price of your transfer out.
 
 Check the latest fees

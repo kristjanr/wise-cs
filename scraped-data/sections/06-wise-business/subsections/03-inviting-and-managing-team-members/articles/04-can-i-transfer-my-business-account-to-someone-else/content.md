@@ -1,5 +1,5 @@
-# Can I transfer my business account to someone else?
-
+# Inviting and managing team members  
+## Can I transfer my business account to someone else?  
 You can leave your Wise Business account, and transfer it to another Admin user any time. 
 
 Once you transfer ownership of an account, your access is fully cancelled. This means, you can’t log in anymore, and your business Wise cards will be blocked. 

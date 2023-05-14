@@ -1,5 +1,5 @@
-# How do I use my NZD account details?
-
+# Using your account details  
+## How do I use my NZD account details?  
 ### What are NZD account details?
 
 These are your very own account details to receive New Zealand dollars (NZD) with zero fees.

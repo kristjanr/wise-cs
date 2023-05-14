@@ -1,5 +1,5 @@
-# How do I use my USD account details?
-
+# Using your account details  
+## How do I use my USD account details?  
 ### What are USD account details and how do I get them?
 
 These are your very own account details to receive US dollars. Your USD account details can only receive USD.

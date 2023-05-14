@@ -1,5 +1,5 @@
-# Types of transfers for sending EUR
-
+# Ways to pay  
+## Types of transfers for sending EUR  
 There are 3 types of transfers you can choose from to send EUR: Fast, Easy, and Low cost.
 
 ### Fast transfer

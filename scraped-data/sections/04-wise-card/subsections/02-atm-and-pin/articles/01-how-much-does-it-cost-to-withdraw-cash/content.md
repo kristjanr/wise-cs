@@ -1,5 +1,5 @@
-# How much does it cost to withdraw cash?
-
+# ATM and PIN  
+## How much does it cost to withdraw cash?  
 You can use your Wise card like any other bank card to withdraw money at ATMs around the world. 
 
 The fees you pay depend on where your card was issued — it’s usually the registered address on your Wise account. If you’re using a different currency, the sum will be equivalent to the currency your card was issued in.

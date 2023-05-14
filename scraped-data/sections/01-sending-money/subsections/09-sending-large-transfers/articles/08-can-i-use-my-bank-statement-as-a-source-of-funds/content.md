@@ -1,5 +1,5 @@
-# Can I use my bank statement as a source of funds?
-
+# Sending large transfers  
+## Can I use my bank statement as a source of funds?  
 We can accept a bank statement as proof of where you got your money if it includes:
 
   * the full amount you’re transferring with us

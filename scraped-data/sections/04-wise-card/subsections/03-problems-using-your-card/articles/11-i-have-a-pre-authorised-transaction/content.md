@@ -1,5 +1,5 @@
-# I have a pre-authorised transaction
-
+# Problems using your card  
+## I have a pre-authorised transaction  
 Businesses like hotels, gas stations, or car rental companies may charge a pre-authorisation. This acts like a reservation that will change to the correct amount once the business knows how much you’re actually going to spend. 
 
 **Here’s an example:**

@@ -1,5 +1,5 @@
-# How do I see what Direct Debits I have?
-
+# Managing your Direct Debits  
+## How do I see what Direct Debits I have?  
 You can see any Direct Debit you’ve set up on the Direct Debit page of your account. To find this on the website:
 
   1. Go to **Manage**

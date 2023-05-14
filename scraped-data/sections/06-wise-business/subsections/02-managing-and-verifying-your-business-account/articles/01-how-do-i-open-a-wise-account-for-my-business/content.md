@@ -1,5 +1,5 @@
-# How do I open a Wise account for my business?
-
+# Managing and verifying your business account  
+## How do I open a Wise account for my business?  
 Wise Business is an online multi-currency account. It lets you make payments, get paid, and spend money around the world with the real exchange rate. You can also use it to pay invoices, buy inventory, and handle payroll in over 70 countries – for up to 14x cheaper than PayPal.
 
 Here are some tips to help you get started.

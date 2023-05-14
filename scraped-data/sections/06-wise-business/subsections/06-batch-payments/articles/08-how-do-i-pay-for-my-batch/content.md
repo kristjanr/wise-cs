@@ -1,5 +1,5 @@
-# How do I pay for my batch?
-
+# Batch payments  
+## How do I pay for my batch?  
 At the final step of the batch payment, you’ll be able to pay for your transfer. You’ll see two payment options: **pay by local bank transfer** , and **use balances already in your Wise Business account**. 
 
 For **Option 1** , we’ll give you our bank details, and you can send the total amount of your batch to us via bank transfer. Once you have sent your bank transfer, mark your batch payment as paid by clicking **I have paid**. When we've received the money, we’ll pay out the correct amounts to each of your recipients.

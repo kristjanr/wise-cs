@@ -1,5 +1,5 @@
-# How do I use my SGD account details?
-
+# Using your account details  
+## How do I use my SGD account details?  
 ####  **What are SGD account details?**
 
 These are your very own account details to receive Singapore dollars (SGD) with zero fees.

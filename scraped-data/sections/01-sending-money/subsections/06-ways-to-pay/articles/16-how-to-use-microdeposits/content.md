@@ -1,5 +1,5 @@
-# How to use microdeposits
-
+# Ways to pay  
+## How to use microdeposits  
 If you’re making a transfer from the US, and you set up an ACH bank debit for your USD transfer, we need to verify that your bank account belongs to you. If we’re unable to do this with your bank login details, we might be able to verify you with microdeposits.
 
 This means we’ll send two small amounts (between 0.01-0.99 USD) to your account, which will appear on your bank statement. It can take up to 2 business days for these to arrive. 

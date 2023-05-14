@@ -1,5 +1,5 @@
-# How does the card invite program work?
-
+# Invites and rewards  
+## How does the card invite program work?  
 You can now give free cards to friends you invite to Wise. 
 
 ### **How do I invite friends?**

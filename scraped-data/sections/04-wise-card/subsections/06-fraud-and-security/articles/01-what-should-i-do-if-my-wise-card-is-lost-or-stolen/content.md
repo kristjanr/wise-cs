@@ -1,5 +1,5 @@
-# What should I do if my Wise card is lost or stolen?
-
+# Fraud and security  
+## What should I do if my Wise card is lost or stolen?  
 You have two options if your Wise card has been lost or stolen. You can temporarily freeze your card to prevent someone using it, or replace it to get a brand new card. 
 
 ### I want to freeze my card

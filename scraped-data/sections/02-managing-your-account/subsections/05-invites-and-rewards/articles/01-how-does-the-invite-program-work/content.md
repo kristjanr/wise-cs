@@ -1,5 +1,5 @@
-# How does the invite program work?
-
+# Invites and rewards  
+## How does the invite program work?  
 The more people send money with Wise, the better it is for everyone.
 
 ### Get money when you invite a friend

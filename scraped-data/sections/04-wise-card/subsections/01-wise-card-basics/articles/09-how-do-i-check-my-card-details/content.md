@@ -1,5 +1,5 @@
-# How do I check my card details?
-
+# Wise card basics  
+## How do I check my card details?  
 You can check your card details on the app or website if you live in Europe, the UK, Australia, New Zealand, Singapore, Malaysia, Japan, Brazil or Canada — even if you haven’t received your physical card yet. You can use your card details online or with your mobile wallet before you get your physical card.
 
 #### To check your card details on the app

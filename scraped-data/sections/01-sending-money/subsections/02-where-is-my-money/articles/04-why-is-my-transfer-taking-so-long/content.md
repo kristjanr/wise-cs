@@ -1,5 +1,5 @@
-# Why is my transfer taking so long?
-
+# Where is my money?  
+## Why is my transfer taking so long?  
 We’ll always tell you upfront when your money should arrive. And once your transfer’s on its way, we’ll send you updates via email. 
 
 Track your transfer

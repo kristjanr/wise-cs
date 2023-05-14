@@ -1,5 +1,5 @@
-# How do I add money to a balance?
-
+# Adding money to your balances  
+## How do I add money to a balance?  
 There are a couple of different ways you can add money to your Wise balances.
 
 ### Add money through Wise

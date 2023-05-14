@@ -1,5 +1,5 @@
-# How does a fee-free transfer work?
-
+# Invites and rewards  
+## How does a fee-free transfer work?  
 ### What is a fee-free transfer?
 
 If you’ve been invited by someone who uses Wise, you’ll receive a discount on your first transfer. This will either remove or reduce the fee on your first transfer, regardless of the currency your payment is in. 

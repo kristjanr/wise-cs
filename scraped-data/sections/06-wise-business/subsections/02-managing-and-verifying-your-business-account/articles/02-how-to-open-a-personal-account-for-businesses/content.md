@@ -1,5 +1,5 @@
-# How to open a personal account (for businesses)
-
+# Managing and verifying your business account  
+## How to open a personal account (for businesses)  
 **Website**
 
 On the website, click on your business name in the top right corner. In the dropdown, choose **Get a personal account.**

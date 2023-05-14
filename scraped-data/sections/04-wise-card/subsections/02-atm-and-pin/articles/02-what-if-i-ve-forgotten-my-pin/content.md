@@ -1,5 +1,5 @@
-# What if I've forgotten my PIN?
-
+# ATM and PIN  
+## What if I've forgotten my PIN?  
 How you find and change your PIN depends on the country you got your card in. Here’s what to do if you forget your PIN.
 
 ### UK, EEA, Australia, New Zealand, Singapore, Malaysia, Japan, Brazil and Canada cardholders

@@ -1,5 +1,5 @@
-# How do I set up an approval rule?
-
+# Payment Approvals  
+## How do I set up an approval rule?  
 To set up an approval rule:
 
   1. Go to **Account** > **Limits & Controls **

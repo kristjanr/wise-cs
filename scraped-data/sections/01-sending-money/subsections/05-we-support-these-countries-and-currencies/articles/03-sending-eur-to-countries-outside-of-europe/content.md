@@ -1,5 +1,5 @@
-# Sending EUR to countries outside of Europe
-
+# We support these countries and currencies  
+## Sending EUR to countries outside of Europe  
 With Wise, you can send euros (EUR) to bank accounts in countries outside of SEPA. 
 
 We send EUR to bank accounts outside of SEPA using the SWIFT payment network. It’s different than a regular Wise transfer so will take a bit longer to reach the recipient. 

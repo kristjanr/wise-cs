@@ -1,5 +1,5 @@
-# How do I add or remove team members?
-
+# Inviting and managing team members  
+## How do I add or remove team members?  
 It’s easy to add or remove people from your business account. As long as you’re an Admin, you’ll be able to do this by following these steps.
 
 ### To add someone to your account

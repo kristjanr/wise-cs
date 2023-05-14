@@ -1,5 +1,5 @@
-# Sending exact amounts ─ Batch payments
-
+# Batch payments  
+## Sending exact amounts ─ Batch payments  
 If you need to make sure your recipient gets a certain amount of money in their home currency, you can simply do when you’re filling out the **“Send to bank accounts” template.**
 
   * On the template creation screen, click on **“Source currency”** and change it to **"Target currency"**. You can find this under the “Amount currency” section. 

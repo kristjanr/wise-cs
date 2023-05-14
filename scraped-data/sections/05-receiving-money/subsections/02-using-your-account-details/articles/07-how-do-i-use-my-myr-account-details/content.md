@@ -1,5 +1,5 @@
-# How do I use my MYR account details?
-
+# Using your account details  
+## How do I use my MYR account details?  
 ### What are MYR account details?
 
 These are your very own account details to receive Malaysian Ringgit (MYR) with zero fees.

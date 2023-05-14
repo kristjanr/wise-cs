@@ -1,5 +1,5 @@
-# What fees do I pay when I hold money as Stocks?
-
+# Using Assets  
+## What fees do I pay when I hold money as Stocks?  
 **Right now, Stocks is only available to UK residents and most businesses that are tax resident in the UK. We’re working on expanding it to more customers, and we’ll let you know when we’re done.**
 
 When you hold your money as stocks you pay two fees: a service fee and a fund fee. 

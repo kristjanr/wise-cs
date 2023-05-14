@@ -1,5 +1,5 @@
-# What is a proof of payment?
-
+# Where is my money?  
+## What is a proof of payment?  
 A proof of payment can be a receipt (either a scan, a photo or a PDF) or a screenshot from your online bank, clearly showing the following:
 
   * your details — we need to see your name and account number, and your bank’s name

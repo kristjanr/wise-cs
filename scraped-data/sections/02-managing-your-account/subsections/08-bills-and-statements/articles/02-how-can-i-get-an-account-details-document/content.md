@@ -1,5 +1,5 @@
-# How can I get an account details document?
-
+# Bills and statements  
+## How can I get an account details document?  
 Some merchants, such as Amazon or PayPal, might ask you confirmation that your account details are held in Wise. You can download a proof of account details document and share it with them.
 
 To download it from the website:

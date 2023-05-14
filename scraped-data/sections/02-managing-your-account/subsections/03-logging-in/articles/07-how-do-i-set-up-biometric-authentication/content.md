@@ -1,5 +1,5 @@
-# How do I set up biometric authentication?
-
+# Logging in  
+## How do I set up biometric authentication?  
 If your device supports biometric authentication, you can enable **biometric login** — Fingerprint or Face Unlock for Android, Touch ID or Face ID for Apple: 
 
 #### On **Apple** devices: 

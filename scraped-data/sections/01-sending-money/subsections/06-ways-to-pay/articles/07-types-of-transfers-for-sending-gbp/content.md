@@ -1,5 +1,5 @@
-# Types of transfers for sending GBP
-
+# Ways to pay  
+## Types of transfers for sending GBP  
 There are 3 types of transfers you can use to send GBP through Wise directly: Low cost, Fast and easy, and Advanced.
 
 ### Low cost transfer

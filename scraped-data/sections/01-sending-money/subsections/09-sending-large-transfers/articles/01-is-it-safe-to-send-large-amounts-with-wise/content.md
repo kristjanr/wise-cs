@@ -1,5 +1,5 @@
-# Is it safe to send large amounts with Wise?
-
+# Sending large transfers  
+## Is it safe to send large amounts with Wise?  
 It can be stressful sending large amounts abroad. So we do a lot to make sure you, your money, and your data are always safe and protected.
 
 ### We’re regulated around the world

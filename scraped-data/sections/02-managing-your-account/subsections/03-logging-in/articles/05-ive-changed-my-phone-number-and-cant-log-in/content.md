@@ -1,5 +1,5 @@
-# I’ve changed my phone number and can’t log in
-
+# Logging in  
+## I’ve changed my phone number and can’t log in  
 Change your phone number on your Wise account
 
 * * *

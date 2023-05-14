@@ -1,5 +1,5 @@
-# Where can I use my Wise card?
-
+# Wise card basics  
+## Where can I use my Wise card?  
 Generally, you can pay with your Wise card in most places where debit cards are accepted. But, if you’re planning on taking your card abroad, check the lists below for countries where you won’t be able to use it. 
 
 **Your card won’t work in these countries:**

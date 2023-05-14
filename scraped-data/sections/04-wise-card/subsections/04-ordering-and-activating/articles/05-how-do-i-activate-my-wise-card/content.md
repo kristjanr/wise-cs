@@ -1,5 +1,5 @@
-# How do I activate my Wise card?
-
+# Ordering and activating  
+## How do I activate my Wise card?  
 For most customers, there is no separate activation step for your Wise card. If your card was issued in the US or Japan check the relevant sections below. 
 
 To activate your card you just need to make your first payment using Chip and PIN. If the Chip and PIN payment gets declined, please use the card at an ATM for either:

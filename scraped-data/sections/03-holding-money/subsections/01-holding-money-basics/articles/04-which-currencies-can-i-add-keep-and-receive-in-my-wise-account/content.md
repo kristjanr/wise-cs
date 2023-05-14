@@ -1,5 +1,5 @@
-# Which currencies can I add, keep and receive in my Wise account?
-
+# Holding money basics  
+## Which currencies can I add, keep and receive in my Wise account?  
 You can add money to your account in 21 currencies: AUD, BGN, BRL*, CAD, CHF, CZK, DKK, EUR, GBP, HUF, IDR**, JPY, MYR***, NOK, NZD, PLN, RON, SEK, SGD, TRY and USD. 
 
 *You need to be a Brazilian tax resident to add money in BRL. 

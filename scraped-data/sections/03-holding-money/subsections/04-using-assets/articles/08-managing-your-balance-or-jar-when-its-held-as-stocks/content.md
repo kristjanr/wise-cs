@@ -1,5 +1,5 @@
-# Managing your Balance or Jar when it’s held as Stocks
-
+# Using Assets  
+## Managing your Balance or Jar when it’s held as Stocks  
 Holding a Balance or Jar as Stocks doesn’t change what you can do with it.
 
 But there are 3 important things to keep in mind: 

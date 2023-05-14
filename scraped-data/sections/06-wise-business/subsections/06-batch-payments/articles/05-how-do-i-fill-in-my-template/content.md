@@ -1,5 +1,5 @@
-# How do I fill in my template?
-
+# Batch payments  
+## How do I fill in my template?  
 If you select “Send by email” and “Send to saved recipients”, you can download the template straightaway and open the CSV template file with a spreadsheet app like Microsoft Excel or Numbers and start filling it out.
 
 For the “Send to bank accounts” template, you’ll be able to pre-fill some information about recipients (e.g. their currency, country, amount, etc.) in our template builder. You’ll still need to download and fill out the rest of the template by hand (only the boxes that start with “e.g.” need to be filled out). “E-mail” and “Payment reference” are optional, so they could be left blank.

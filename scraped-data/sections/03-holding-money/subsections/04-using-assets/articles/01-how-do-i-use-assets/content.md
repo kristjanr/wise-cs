@@ -1,5 +1,5 @@
-# How do I use Assets?
-
+# Using Assets  
+## How do I use Assets?  
 Right now, Assets is only available to some UK, Singapore and EEA residents and most businesses that are tax residents in the UK. If you see the option to change your Balance or Jar from Cash to Interest or Stocks, you're eligible. 
 
 We’re working on expanding Assets it to more customers, and we’ll let you know when we’re done.

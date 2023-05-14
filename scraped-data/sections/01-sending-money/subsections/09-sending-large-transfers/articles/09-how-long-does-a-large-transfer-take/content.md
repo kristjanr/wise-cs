@@ -1,5 +1,5 @@
-# How long does a large transfer take?
-
+# Sending large transfers  
+## How long does a large transfer take?  
 We do security checks when people send money abroad; they satisfy regulations, and help keep everyone safe. If you’re sending a larger amount, we often have to do extra manual checks, which can take longer.
 
 We make this process as fast as possible, but we know sending large transfers can be particularly stressful. So here are some things you can do to speed things up.

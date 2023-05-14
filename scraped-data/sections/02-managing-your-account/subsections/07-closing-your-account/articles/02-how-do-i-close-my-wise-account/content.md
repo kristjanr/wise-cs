@@ -1,5 +1,5 @@
-# How do I close my Wise account?
-
+# Closing your account  
+## How do I close my Wise account?  
 To close your personal account on the web:
 
   1. Go to **Settings** on either your app or on the website

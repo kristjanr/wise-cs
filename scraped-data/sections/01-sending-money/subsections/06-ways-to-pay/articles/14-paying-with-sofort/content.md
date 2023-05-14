@@ -1,5 +1,5 @@
-# Paying with SOFORT
-
+# Ways to pay  
+## Paying with SOFORT  
 SOFORT is a convenient payment method that works through your online banking. Here’s some basic information about how it works.
 
   * SOFORT is only available for selected banks in Austria, Belgium, Germany, Italy, the Netherlands, Slovakia, Spain, and Switzerland. If it doesn’t work with your bank, we’ll let you know when you set up the transfer

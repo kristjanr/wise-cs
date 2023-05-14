@@ -1,5 +1,5 @@
-# How much are spending fees?
-
+# Wise card basics  
+## How much are spending fees?  
 #### For the most up to date information on your fees, please see the Terms of Use for your region.
 
 There’s a lot you can do with your Wise card for free. And we charge transparent fees for spending in currencies you don’t have in your account and withdrawing cash after a certain amount.

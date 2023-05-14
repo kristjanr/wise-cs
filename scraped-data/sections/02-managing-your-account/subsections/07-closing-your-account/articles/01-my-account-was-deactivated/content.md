@@ -1,5 +1,5 @@
-# My account was deactivated
-
+# Closing your account  
+## My account was deactivated  
 There are a number of reasons why we might need to close your Wise account. 
 
 We can’t tell you the specific reason why we closed your account — it’s because of how we’re regulated. And Customer Support doesn’t have the ability to view the reasons why.

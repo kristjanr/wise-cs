@@ -1,5 +1,5 @@
-# Why isn't my Xero bank account ready to connect?
-
+# Connecting to accounting software  
+## Why isn't my Xero bank account ready to connect?  
 If you see the error message “ **This bank account isn’t ready to connect with Wise** ,” it means the Xero bank account you’ve chosen to connect a balance with hasn’t been configured correctly in Xero. Often, it’s because it’s already been set up to support another bank or platform. 
 
 You have three options:

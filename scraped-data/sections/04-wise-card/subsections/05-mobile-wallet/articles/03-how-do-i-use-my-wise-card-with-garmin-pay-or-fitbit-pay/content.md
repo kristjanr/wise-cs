@@ -1,5 +1,5 @@
-# How do I use my Wise card with Garmin Pay or Fitbit Pay?
-
+# Mobile wallet  
+## How do I use my Wise card with Garmin Pay or Fitbit Pay?  
 This article covers where you can use the Wise card with Garmin Pay and Fitbit Pay, how to set it up, and limits. For general information on Garmin Pay, visit the Garmin Support Center. For general information on Fitbit Pay, visit Fitbit Help.
 
 ### Can I add my Wise card to Garmin Pay or Fitbit Pay?

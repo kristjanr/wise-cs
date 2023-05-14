@@ -1,5 +1,5 @@
-# How do I set up Direct Debits?
-
+# Managing your Direct Debits  
+## How do I set up Direct Debits?  
 When you set up a Direct Debit, you give a company permission to take regular payments from your account. You might use Direct Debits to pay for a monthly subscription like the gym, or to pay your phone or energy bill.
 
 ### Find your Wise account details

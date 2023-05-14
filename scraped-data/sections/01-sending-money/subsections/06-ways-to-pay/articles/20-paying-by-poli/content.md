@@ -1,5 +1,5 @@
-# Paying by POLi
-
+# Ways to pay  
+## Paying by POLi  
 The following banks can make POLi payments to Wise:
 
  **Australian Banks:**

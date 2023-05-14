@@ -1,5 +1,5 @@
-# How long does a transfer take?
-
+# Sending money basics  
+## How long does a transfer take?  
 We always move your money as quickly as possible. You can see an estimate of how long it’ll take by putting some basic details into our transfer calculator on our homepage.
 
 But when you actually set up your transfer on Wise, your estimate will change. The reason for this is simple — the more information we have about your transfer, the more accurately we can tell you how long it’ll take. And it depends on these 4 things:

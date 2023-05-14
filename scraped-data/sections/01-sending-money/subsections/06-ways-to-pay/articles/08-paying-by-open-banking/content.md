@@ -1,5 +1,5 @@
-# Paying by Open Banking
-
+# Ways to pay  
+## Paying by Open Banking  
 **Open Banking is a secure and convenient way of topping up your Wise account or paying for your GBP transfer.** Open Banking was initiated by the Competition and Markets Authority (CMA) in 2017. 
 
 Wise has two pay-in Open Banking options right now: one-off payment and one or more pull of funds to Wise account. Pull of funds option can be set up by connecting Wise to your bank account in another bank.

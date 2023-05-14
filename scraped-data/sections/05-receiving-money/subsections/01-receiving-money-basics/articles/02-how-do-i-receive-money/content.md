@@ -1,5 +1,5 @@
-# How do I receive money?
-
+# Receiving money basics  
+## How do I receive money?  
 Receiving money into your account works just like a regular bank account. Just share the account details of the currency you want to be paid to the person or business who wants to pay you. 
 
 You can get account details in USD, GBP, EUR, AUD*, NZD, CAD, HUF, RON**, TRY and SGD — with more currencies on the way. You can get paid in the same currency as your balance, so to get GBP, share your GBP account details.

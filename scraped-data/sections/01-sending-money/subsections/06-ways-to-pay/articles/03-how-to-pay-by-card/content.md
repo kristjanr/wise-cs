@@ -1,5 +1,5 @@
-# How to pay by card
-
+# Ways to pay  
+## How to pay by card  
 We’ll show you the available payment methods when you’re paying for your transfer. For most currencies, you can pay using your debit or credit card. 
 
 We only accept Visa, Mastercard, and some Maestro cards. Your card has to have a 16-digit card number, an expiry date and 3D security enabled. We don't accept American Express (AMEX) cards. 

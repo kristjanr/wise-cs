@@ -1,5 +1,5 @@
-# I sent the wrong amount
-
+# Mistakes and editing your transfer  
+## I sent the wrong amount  
 It can be unsettling to send the wrong amount of money. But fortunately, it’s straightforward to fix.
 
  **If you sent too much money, we’ll send the excess back to you.**

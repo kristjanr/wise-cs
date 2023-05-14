@@ -1,5 +1,5 @@
-# How do I use my CAD account details?
-
+# Using your account details  
+## How do I use my CAD account details?  
 ### What are CAD account details?
 
 These are your very own account details to receive Canadian dollars (CAD).

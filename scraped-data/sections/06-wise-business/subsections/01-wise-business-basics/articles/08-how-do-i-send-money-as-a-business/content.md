@@ -1,5 +1,5 @@
-# How do I send money as a business?
-
+# Wise Business basics  
+## How do I send money as a business?  
 If you wish to make transfers on behalf of a company, you’ll need to set up a Wise Business account with us.
 
 To open an account, provide details about your business and the person who will manage the account. And depending on the amount of money you wish to send and where, we will need to verify your account before sending any money or opening a balance.

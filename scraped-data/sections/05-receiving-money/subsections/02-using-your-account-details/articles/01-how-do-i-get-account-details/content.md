@@ -1,5 +1,5 @@
-# How do I get account details?
-
+# Using your account details  
+## How do I get account details?  
 To get account details, you need to open a balance in one of the supported currencies. 
 
 You can only open a balance if you live in a country where the Wise balance is available. 

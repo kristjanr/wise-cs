@@ -1,5 +1,5 @@
-# I need info about a Wise customer. Can I get it?
-
+# Privacy and security  
+## I need info about a Wise customer. Can I get it?  
 We can only share information with third parties when we’re required to. 
 
 We can share information about someone’s account if

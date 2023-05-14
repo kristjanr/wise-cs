@@ -1,5 +1,5 @@
-# How do I download a list of my transfers?
-
+# Bills and statements  
+## How do I download a list of my transfers?  
 You can review, filter and download a file of all of your transfers from your _Transactions_ page. You’ll see the option to **Filter** and **Download** on the top right corner. 
 
 You can filter your transfers by: 

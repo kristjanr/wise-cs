@@ -1,5 +1,5 @@
-# My document didn't have enough information on it
-
+# Setting up and managing your account  
+## My document didn't have enough information on it  
 When we review documents, we look for certain pieces of information on them. Most times, this helps us confirm that the document you’ve sent us is authentic and valid. We’ll also make sure that the details printed on them match with your Wise account. 
 
 ### Here’s what we check for:

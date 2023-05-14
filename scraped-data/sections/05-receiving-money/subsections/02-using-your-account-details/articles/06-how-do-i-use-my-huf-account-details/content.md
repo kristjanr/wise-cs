@@ -1,5 +1,5 @@
-# How do I use my HUF account details?
-
+# Using your account details  
+## How do I use my HUF account details?  
 ### What are HUF account details?
 
 These are your very own account details to receive Hungarian forints (HUF) with zero fees.

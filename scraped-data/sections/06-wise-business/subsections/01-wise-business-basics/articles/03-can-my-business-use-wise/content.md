@@ -1,5 +1,5 @@
-# Can my business use Wise?
-
+# Wise Business basics  
+## Can my business use Wise?  
 Wise Business works for all different types of businesses — from freelancers and entrepreneurs to large-scale enterprises. When you add your details, we’ll let you know if we support businesses in your country. 
 
 **Wise works for:**

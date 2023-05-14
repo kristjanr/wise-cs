@@ -1,5 +1,5 @@
-# I need to edit my personal details
-
+# Account and settings  
+## I need to edit my personal details  
 There are different ways to do this (changing address, date of birth, phone number, email), depending on which accounts you have.
 
 Bear in mind that you might not be able to edit all your details — scroll down to see what you can and can't edit. 

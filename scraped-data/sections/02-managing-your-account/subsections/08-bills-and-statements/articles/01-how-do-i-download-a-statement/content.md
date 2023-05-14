@@ -1,5 +1,5 @@
-# How do I download a statement?
-
+# Bills and statements  
+## How do I download a statement?  
 ### Downloading statements from the website
 
 You can download standard statements, or accounting statements for every balance or Jar you have. For accounting statements, fees show up separately for each transaction

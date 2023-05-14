@@ -1,5 +1,5 @@
-# How do I use my PLN account details?
-
+# Using your account details  
+## How do I use my PLN account details?  
 ### What are PLN account details?
 
 These are your very own account details to receive Polish złoty (PLN) with zero fees.

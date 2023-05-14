@@ -1,5 +1,5 @@
-# What countries can I send to?
-
+# We support these countries and currencies  
+## What countries can I send to?  
 Here’s a list of the countries you can send money to with Wise. Choose the one you’re interested in to get more information, including what types of transfers you can send, and whether you can send business transfers. 
 
 

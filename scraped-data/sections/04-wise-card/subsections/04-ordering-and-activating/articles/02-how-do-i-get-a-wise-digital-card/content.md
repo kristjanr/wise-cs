@@ -1,5 +1,5 @@
-# How do I get a Wise digital card?
-
+# Ordering and activating  
+## How do I get a Wise digital card?  
 ### Get a digital card for your personal account
 
 You can get a digital card if you already have a physical card and live in the UK, Australia, Japan, New Zealand, Singapore, Malaysia and Switzerland, Canada, Brazil or EEA.

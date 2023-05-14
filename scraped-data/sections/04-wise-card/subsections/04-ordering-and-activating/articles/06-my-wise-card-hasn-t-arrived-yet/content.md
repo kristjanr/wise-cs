@@ -1,5 +1,5 @@
-# My Wise card hasn't arrived yet
-
+# Ordering and activating  
+## My Wise card hasn't arrived yet  
 In most regions we use standard delivery, so we can only give you an estimated delivery time, but not a tracking number. You can check this under the **Cards** tab in your Wise account.
 
 Normal delivery times based on regions: 

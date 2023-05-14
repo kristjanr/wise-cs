@@ -1,5 +1,5 @@
-# Why does it say my transfer's complete when the money hasn't arrived yet?
-
+# Where is my money?  
+## Why does it say my transfer's complete when the money hasn't arrived yet?  
 We mark your transfer **Complete** when we’ve sent the money to the recipient bank. And we leave a little room in our arrival estimate for the bank to process and release it.
 
 If your recipient says they haven’t yet received the money, there are two possible reasons why.

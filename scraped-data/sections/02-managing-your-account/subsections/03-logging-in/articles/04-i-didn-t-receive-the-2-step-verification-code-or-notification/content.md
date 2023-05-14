@@ -1,5 +1,5 @@
-# I didn't receive the 2-step verification code or notification
-
+# Logging in  
+## I didn't receive the 2-step verification code or notification  
 If you’re not receiving the 2-step verification code via text or an app notification from us, here’s what to do.
 
 ### 2-step verification with the Wise app

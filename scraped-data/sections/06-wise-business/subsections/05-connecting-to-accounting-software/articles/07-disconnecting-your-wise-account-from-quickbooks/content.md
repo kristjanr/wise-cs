@@ -1,5 +1,5 @@
-# Disconnecting your Wise account from QuickBooks
-
+# Connecting to accounting software  
+## Disconnecting your Wise account from QuickBooks  
 To disconnect your Wise account from QuickBooks:
 
   1. Go to **Settings**

@@ -1,5 +1,5 @@
-# Can I get the Wise card in my country?
-
+# Ordering and activating  
+## Can I get the Wise card in my country?  
 The Wise card is currently available for **residents** of these countries and regions who have a Wise account.
 
 ### Europe

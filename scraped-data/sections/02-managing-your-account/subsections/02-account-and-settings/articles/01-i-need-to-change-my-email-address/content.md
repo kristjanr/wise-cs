@@ -1,5 +1,5 @@
-# I need to change my email address
-
+# Account and settings  
+## I need to change my email address  
 The email address listed in your Wise account is how we keep in touch. We’ll send updates about your transfer there, as well as any other important information you need to know.
 
 ### How to change your email address

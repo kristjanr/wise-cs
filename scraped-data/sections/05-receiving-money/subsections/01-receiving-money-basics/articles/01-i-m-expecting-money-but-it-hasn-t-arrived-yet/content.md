@@ -1,5 +1,5 @@
-# I'm expecting money, but it hasn't arrived yet
-
+# Receiving money basics  
+## I'm expecting money, but it hasn't arrived yet  
 If you’re waiting for money that someone has sent you through Wise, the best way to check where it is, is to ask the person who sent it. They can check its status by logging in to their Wise account.
 
 If you’d like to talk to our support team and you’re a recipient, we unfortunately won’t be able to give you any specific details. This is for privacy and security reasons — we can only give information about a transfer to the person who sent it.

@@ -1,5 +1,5 @@
-# Sending GBP to countries outside of the UK
-
+# We support these countries and currencies  
+## Sending GBP to countries outside of the UK  
 With Wise, you can send British pounds (GBP) to bank accounts in countries outside of the UK. You can also now send GBP to bank accounts in the UK that Wise otherwise can’t support. These are bank accounts that don’t accept CHAPS or Faster Payments.
 
 As long as the receiving bank account is denominated in GBP and has an IBAN, you can send GBP there.

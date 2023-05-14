@@ -1,5 +1,5 @@
-# How to verify your Indian business to receive payments
-
+# Managing and verifying your business account  
+## How to verify your Indian business to receive payments  
 We need to verify your identity and your business before you can start receiving money from your payers. It’s how we keep your money safe and comply with regulations.
 
 Once you're verified, you can receive money from your international clients. They can pay to the account details we allocate you and we'll automatically convert the money to INR at mid-market rate for you. 

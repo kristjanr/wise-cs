@@ -1,5 +1,5 @@
-# A transaction isn't showing in my activity list
-
+# Problems using your card  
+## A transaction isn't showing in my activity list  
 There could be a number of reasons why your transaction isn’t showing in your activity list:
 
   * The merchant might not accept cards issued in a different country. This is often the case in the US, where many businesses only accept US cards.

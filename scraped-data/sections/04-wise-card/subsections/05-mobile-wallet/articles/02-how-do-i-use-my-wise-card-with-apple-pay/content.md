@@ -1,5 +1,5 @@
-# How do I use my Wise card with Apple Pay?
-
+# Mobile wallet  
+## How do I use my Wise card with Apple Pay?  
 For general information on Apple Pay, visit Apple Pay Support.
 
 ### Can I add my Wise card to Apple Pay?

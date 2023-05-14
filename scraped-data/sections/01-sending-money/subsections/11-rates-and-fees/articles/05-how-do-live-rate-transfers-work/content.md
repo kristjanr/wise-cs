@@ -1,5 +1,5 @@
-# How do live rate transfers work?
-
+# Rates and fees  
+## How do live rate transfers work?  
 There are 2 types of exchange rates you can get on your transfer: a live rate, and a guaranteed rate. 
 
 A live rate means that your transfer will be converted using the rate that's live at the time your money gets to Wise. It means that when you set up your transfer, you won't know exactly how much your recipient will get, because the rate will change in the time it takes your money to reach Wise from your bank account. 

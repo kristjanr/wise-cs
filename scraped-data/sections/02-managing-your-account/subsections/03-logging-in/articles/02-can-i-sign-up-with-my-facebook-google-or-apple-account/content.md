@@ -1,5 +1,5 @@
-# Can I sign up with my Facebook, Google, or Apple account?
-
+# Logging in  
+## Can I sign up with my Facebook, Google, or Apple account?  
 Yes, when you’re signing up, you can choose to connect with your Facebook, Google, or Apple account. You’ll be taken to a separate page to confirm which account you want to sign up with, and that you’re happy for us to receive the specified information.
 
 When you sign up through Facebook, Google or Apple, you may be asked to enter your Wise password to confirm activities such as sending money from your balances, or revealing your PIN. 

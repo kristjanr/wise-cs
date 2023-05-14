@@ -1,5 +1,5 @@
-# What fee am I charged to hold large amounts of EUR?
-
+# Holding money basics  
+## What fee am I charged to hold large amounts of EUR?  
 #### We don't charge any fees for holding large amounts of EUR on your account. The only exception is if you have an Australian address. 
 
 Learn more about fees when you live in Australia.

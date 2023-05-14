@@ -1,5 +1,5 @@
-# Wise Referral Terms
-
+# Invites and rewards  
+## Wise Referral Terms  
 **PLEASE READ THESE REFERRAL TERMS CAREFULLY**. 
 
 This “Agreement” (these referral terms together with the documents referred to in it) sets out the terms which govern our referral program (“Referral Program”). Please read this Agreement carefully before you use our Referral Program. By using our Referral Program, you confirm that you accept this Agreement and that you agree to comply with it. If you do not agree to the terms of this Agreement, you must not use our Referral Program.

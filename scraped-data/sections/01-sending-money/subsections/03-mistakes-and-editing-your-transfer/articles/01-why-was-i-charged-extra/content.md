@@ -1,5 +1,5 @@
-# Why was I charged extra?
-
+# Mistakes and editing your transfer  
+## Why was I charged extra?  
 It’s never nice to get charged more than you were expecting. There are three main reasons this could happen when you use a card to pay for a transfer.
 
 ### The bank that issued your card has charged an extra fee — often called a ‘cash advance’

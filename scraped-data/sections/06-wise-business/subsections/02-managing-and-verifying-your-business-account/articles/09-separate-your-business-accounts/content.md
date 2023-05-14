@@ -1,5 +1,5 @@
-# Separate your business accounts
-
+# Managing and verifying your business account  
+## Separate your business accounts  
 If you'd like to separate your business accounts, we'd first recommend changing the email address from your business one to your personal one.
 
 After you've done that, you'll be free to use the same business email address when moving the business to a new account.

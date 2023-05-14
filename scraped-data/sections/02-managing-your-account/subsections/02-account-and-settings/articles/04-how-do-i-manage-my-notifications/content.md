@@ -1,5 +1,5 @@
-# How do I manage my notifications?
-
+# Account and settings  
+## How do I manage my notifications?  
 You can manage the ways that we get in touch in the notifications tab on your settings page.
 
 Notification settings
