@@ -48,7 +48,7 @@ All you need to do is enter and confirm your delivery address, and your new card
 Delivery times depend on your region.
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Country / Region,Normal Delivery Times  
 Australia,7-14 working days  
 Brazil,5-7 working days  
@@ -60,7 +60,8 @@ New Zealand,7-10 working days
 Singapore,3 working days  
 UK,2-6 days  
 US,14-21 working days  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 ### What if my card expires?
 

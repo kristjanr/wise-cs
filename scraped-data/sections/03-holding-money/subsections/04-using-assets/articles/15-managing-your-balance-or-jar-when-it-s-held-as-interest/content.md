@@ -9,12 +9,13 @@ Whenever you add or receive money, we’ll buy units in the fund we’ve chosen 
 If you choose to hold your money as Interest, we’ll invest it in the following Money Market Funds depending on the currency you select:
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Asset,Fund  
 Interest-earning fund (GBP),BlackRock ICS Sterling Government Liquidity Fund Premier Acc (GBP) Managed by BlackRock.  
 Interest-earning fund (EUR),BlackRock ICS Euro Government Liquidity Fund Premier Acc T0 (EUR) Managed by BlackRock  
 Interest-earning fund (USD),BlackRock ICS US Treasury Fund Premier ACC (USD) Managed by BlackRock  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 Your money will be held in a fund that invests in short-terms loans backed by governments. When these loans are repaid with interest, the fund’s value grows. 
 

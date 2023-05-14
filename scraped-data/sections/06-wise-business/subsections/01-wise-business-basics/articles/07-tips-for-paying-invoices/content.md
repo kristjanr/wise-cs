@@ -9,7 +9,7 @@ Adding a reference Sending an exact amount
 When creating a transfer with us, we give you the option to add a reference in Step 4 of set up. For a lot of business transfers, this reference is crucial, so please check the table below to see the limitations on references in our receiving currencies.
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Currency,Reference length allowed,Reference sending method  
 GBP,18 characters,Sent with bank transfer  
 USD,10 characters,Sent with ACH transfer or SWIFT transfer  
@@ -43,7 +43,8 @@ MXN,100 characters,Sent with bank transfer
 ZAR,18 characters,Sent with SWIFT transfer  
 VND,35 characters,Sent via email only  
 JPY,No reference included,  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 ### Sending an exact amount
 

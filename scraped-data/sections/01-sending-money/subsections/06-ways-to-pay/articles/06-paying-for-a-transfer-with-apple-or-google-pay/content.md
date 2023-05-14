@@ -24,7 +24,7 @@ There are a few circumstances where you won’t be able to pay using either meth
 Here are the countries you can use Apple Pay in, and the limits per payment for how much you can send:
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Country you set your profile up in,Limit per payment  
 UK,"10,000 GBP"  
 "Finland, France, Italy, Ireland, Germany, Belgium, Monaco, San Marino, and Spain","10,000 EUR"  
@@ -40,7 +40,8 @@ Poland,"10,000 PLN"
 Romania,"55,000 RON"  
 Sweden,"20,000 SEK"  
 Switzerland,"3,500 CHF"  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 We charge our normal card fee when you use Apple Pay. 
 
@@ -49,7 +50,7 @@ We charge our normal card fee when you use Apple Pay.
 Here are the countries you can use Google Pay in, and the limits per payment for how much you can send:
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Country you set your profile up in,Limit per payment  
 UK,"10,000 GBP"  
 "Belgium, Estonia, Finland, France, Germany, Ireland, Italy, Luxembourg, the Netherlands, Portugal, Slovakia, and Spain","2,000 EUR"  
@@ -64,6 +65,7 @@ Poland,"10,000 PLN"
 Romania,"10,500 RON"  
 Sweden,"20,000 SEK"  
 Switzerland,"2,500 CHF"  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 You’ll also only be able to use Google Pay if you have version 3.13.1 or later of the Wise Android app, so please make sure you’ve updated your app if you don’t see the option.

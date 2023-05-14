@@ -19,7 +19,7 @@ You also get a free withdrawal allowance each calendar month. This is the amount
 You can find these fees and rates on the below table. For more detailed information, _check out our pricing page._ Make sure you set the correct location in the top right corner of the page. 
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Region,Free Allowance,Fixed Fee,Variable Rate  
 Australia,350 AUD,1.50 AUD,1.75%  
 Brazil,"1,400 BRL",6.50 BRL,1.75%  
@@ -31,7 +31,8 @@ New Zealand,350 NZD,1.50 NZD,1.75%
 Singapore*,350 SGD,1.50 SGD,1.75%  
 UK,200 GBP,0.50 GBP,1.75%  
 USA,100 USD,1.50 USD,2.00%  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
  **Examples**
 

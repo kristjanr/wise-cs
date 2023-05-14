@@ -15,14 +15,15 @@ It would not apply if you are sending transfers to same currencies (i.e. USD to 
 The more you send, the lower your fee is. This table shows the estimated percentage discount depending on your monthly volume.
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Volume (GBP),Discount (%)  
 0–100k,0  
 100k–300k,0.1  
 300k–500k,0.15  
 500k–1m,0.16  
 1m+,0.17  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 This works a bit like tax brackets. So, just like you pay no tax on the first part of your income, then a progressively higher percentage on the next part of your income — you only get the lower fee on the amount that falls in each bracket. 
 

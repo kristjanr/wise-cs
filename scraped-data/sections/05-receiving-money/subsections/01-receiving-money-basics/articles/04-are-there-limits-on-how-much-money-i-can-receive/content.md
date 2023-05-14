@@ -22,11 +22,12 @@ There are a few exceptions:
  **For account details with a routing number starting with 026**
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 ,Personal limit,Business limit  
 "USD limit, per transaction and per day","20,000,000 USD","30,000,000 USD"  
 USD limit per year*,"35,000,000 USD","50,000,000 USD"  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 Any money you receive into your USD balance using your USD account details — either by someone else or yourself — will count towards the limit.
 

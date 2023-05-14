@@ -13,11 +13,12 @@ For most currencies, you can receive money on your balance without a limit.
 If your USD account details have a routing number starting with 026, then the following limits apply.
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 ,Personal limit,Business limit  
 "USD limit, per transaction and per day","20,000,000 USD","30,000,000 USD"  
 USD limit per year*,"35,000,000 USD","50,000,000 USD"  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
  **These limits don’t apply when:**
 

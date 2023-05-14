@@ -184,13 +184,14 @@ These income forms may be subject to a partial tax exemption (“Teilfreistellun
 The following partial exemption rates are to be applied on all income from the respective funds of German tax residents: For example, 30% of the income arising from an equity fund investment would be exempt from tax. Distributions are taxable upon receipt in the year of the payment day.
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Fund Category,Partial tax exemption rate  
 Equity funds,30%  
 Mixed-assets funds,15%  
 Domestic real estate funds,60%  
 Foreign real estate funds,80%  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 The advance lump-sum (“Vorabpauschale”) reflects deemed income from a fund in the case where minimal or no distributions have been made from the fund. This ensures that a de-minimis level of tax applies to a fund investment, taking the basic interest rate and performance of the fund into account. This is only relevant where the value of the fund has increased, and no distributions have been made. For example, if the fund's performance was negative, the advance lump-sum isn't applicable. 
 

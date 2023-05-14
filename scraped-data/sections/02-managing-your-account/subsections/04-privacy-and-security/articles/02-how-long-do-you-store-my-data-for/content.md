@@ -7,7 +7,7 @@ Only a small number of our employees can see that data, and they’ll only look 
 If there is any conflict between the two tables below, data will be retained for the longer period stated.
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Where you live,Data retention period  
 Australia,7 years  
 Canada,6 years  
@@ -17,8 +17,9 @@ Singapore,6 years
 United Kingdom,6 years  
 United States,6 years  
 Any other region not listed above,6 years  
- --- CSV table ends ---
- --- CSV table begins ---
+--- CSV table ends ---  
+
+--- CSV table begins ---  
 Currency you transact in,Retention period  
 Turkish Lira (TRY),8 years  
- --- CSV table ends ---
+--- CSV table ends ---

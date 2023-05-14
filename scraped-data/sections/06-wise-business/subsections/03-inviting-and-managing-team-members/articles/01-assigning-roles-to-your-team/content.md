@@ -135,7 +135,7 @@ If you want to delete a Custom Role, make sure to reassign your team members to 
 ### Roles and permissions
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 ,Owner,Admin,Payer,Preparer,Viewer,Employee  
 "View transaction history, balances, users and recipients, manage accounting bank feed",✔️,✔️,✔️,✔️,✔️,❌  
 View own activity,✔️,✔️,✔️,✔️,✔️,✔️  
@@ -154,4 +154,4 @@ Request changes to the Wise business account details,✔️,✔️,❌,❌,❌,�
 Represent the business regarding transfer related queries,✔️,✔️,✔️,❌,❌,❌  
 "Close Wise business account, appeal closure or transfer ownership",✔️,❌,❌,❌,❌,❌  
 Get general advice from support,✔️,✔️,✔️,✔️,✔️,✔️  
- --- CSV table ends ---
+--- CSV table ends ---

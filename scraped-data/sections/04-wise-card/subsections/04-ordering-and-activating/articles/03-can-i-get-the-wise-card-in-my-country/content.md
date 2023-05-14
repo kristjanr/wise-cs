@@ -157,7 +157,7 @@ Brazil.
 Normal delivery times based on regions: 
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Country / Region,Normal Delivery Times  
 Australia,7-14 working days  
 Brazil,5-7 working days  
@@ -169,7 +169,8 @@ New Zealand,7-10 working days
 Singapore,3 working days  
 UK,2-6 days  
 US,14-21 working days  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 But how long it takes depends on the country you live in, so check the delivery estimate.
 

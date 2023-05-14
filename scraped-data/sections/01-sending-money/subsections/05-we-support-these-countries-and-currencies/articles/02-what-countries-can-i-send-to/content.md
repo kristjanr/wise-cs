@@ -3,7 +3,7 @@
 Here’s a list of the countries you can send money to with Wise. Choose the one you’re interested in to get more information, including what types of transfers you can send, and whether you can send business transfers. 
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 ,,,  
 Argentina,Australia,Bangladesh,Brazil  
 Bulgaria,Canada,Chile,China  
@@ -18,7 +18,8 @@ South Korea,Sri Lanka,Sweden,Switzerland and Liechtenstein
 Tanzania,Thailand,Turkey,Uganda  
 Ukraine,United Arab Emirates,United Kingdom,United States of America  
 Uruguay,Vietnam,Zambia,  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 ## What if I don’t see the country I want to send money to?
 

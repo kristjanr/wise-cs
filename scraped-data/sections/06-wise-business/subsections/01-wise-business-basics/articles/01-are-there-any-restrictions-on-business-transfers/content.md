@@ -9,7 +9,7 @@ Learn more about each currency and their limitations by searching for "Guide to 
 ### Currencies with business limitations
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Currency,Sending account can be a business,Recipient account can be a business,Additional note  
 AUD,Yes,Yes,See the business types we can support for Australia here.  
 BDT,No,No,Both the sender and the recipient of a transfer to BDT must be a privately owned account of an individual.  
@@ -28,7 +28,8 @@ TZS,No,No,Both the sender and the recipient of a transfer to TZS must be a priva
 UAH,Yes,No,"Wise can only make transfers to private users of PrivatBank in Ukraine. The originating currency can arrive to us from a business or personal account, however we can't make transfers to any businesses in Ukraine."  
 USD,Yes,Yes,See the business types we can support for the US.  
 VND,Yes,No,"The originating currency can arrive to us from a business or personal account, however we cannot make transfers to any businesses in Vietnam."  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 ### Currencies without business limitations
 

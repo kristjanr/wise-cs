@@ -13,7 +13,7 @@ If you don’t have enough money in that Balance to pay the fee, we’ll take it
  **Service fee when you hold money as Interest**
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Your country,Asset type,Fund and Fund Manager,Service Fee  
 UK,Interest-earning fund,BlackRock ICS Sterling Government Liquidity Fund Managed by BlackRock,Annual fee of 0.19%  
 ,Interest-earning fund (EUR),BlackRock ICS Euro Government Liquidity Fund Premier Acc T0 (EUR) Managed by BlackRock,Annual fee of 0.19%  
@@ -22,7 +22,8 @@ EEA*,Interest-earning fund,BlackRock ICS Sterling Government Liquidity Fund Mana
 ,Interest-earning fund (EUR),BlackRock ICS Euro Government Liquidity Fund Premier Acc T0 (EUR) Managed by BlackRock,Annual fee of 0.37%  
 ,Interest-earning fund (USD),BlackRock ICS US Treasury Fund Premier ACC (USD) Managed by BlackRock,Annual fee of 0.37%  
 Singapore,Interest-earning fund,LionGlobal SGD Money Market Fund Managed by Lion Global Investors Ltd.,Annual fee of 0.25%  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 *Only some countries are eligible, you'll see it in the app if you are.
 
@@ -33,13 +34,14 @@ The fund management fee is charged by the fund manager. It’s automatically ref
  **Fund fee when you hold money as Interest**
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Your country,Fund and Fund Manager,Fund Management Fee  
 UK / EEA**,BlackRock ICS Sterling Government Liquidity Fund Premier Acc (GBP) Managed by BlackRock,Annual fee of 0.10%*  
 ,BlackRock ICS Euro Government Liquidity Fund Premier Acc T0 (EUR) Managed by BlackRock,Annual fee of 0.10%*  
 ,BlackRock ICS US Treasury Fund Premier ACC (USD) Managed by BlackRock,Annual fee of 0.10%*  
 Singapore,LionGlobal SGD Money Market Fund Managed by Lion Global Investors Ltd.,Annual fee of 0.25%  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 *In the UK, BlackRock provides Wise with a rebate of 0.03% from their Fund Management Fee. Wise passes this saving on to you through a reduced service fee. 
 

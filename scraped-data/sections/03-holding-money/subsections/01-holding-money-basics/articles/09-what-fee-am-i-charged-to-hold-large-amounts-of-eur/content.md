@@ -22,12 +22,13 @@ If you were charged on the 1st of August, this was to cover the holding fee for 
 Anything above the free allowance had a 0.9% annual fee charged on a monthly basis. You can check the table below to see the old fees:
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 "Time holding 1,000 EUR more than your free allowance",How much it costs  
 One day,0.02 EUR  
 30 days,0.74 EUR  
 One year,9.01 EUR  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 ### What if I'm holding money as stocks?
 

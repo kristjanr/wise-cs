@@ -11,13 +11,14 @@ We can’t onboard every type of business — if you don’t see the option to s
 If your address is in the UK you can switch your **Balances** and **Jars** to:
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Assets,Fund  
 Stocks,iShares World Equity Index Fund (LU) Class N2 EUR Managed by BlackRock  
 Interest-earning fund (GBP),BlackRock ICS Sterling Government Liquidity Fund Premier Acc (GBP) Managed by BlackRock  
 Interest-earning fund (EUR),BlackRock ICS Euro Government Liquidity Fund Premier Acc T0 (EUR) Managed by BlackRock  
 Interest-earning fund (USD),BlackRock ICS US Treasury Fund Premier ACC (USD) Managed by BlackRock  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 ### EEA
 
@@ -28,11 +29,12 @@ We can’t onboard every type of business — if you don’t see the option to s
 If your address is in one of the countries listed above you can switch your **Balances** and **Jars** to:
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Assets,Fund  
 Interest-earning fund (GBP),BlackRock ICS Sterling Government Liquidity Fund Premier Acc (GBP) Managed by BlackRock  
 Interest-earning fund (EUR),BlackRock ICS Euro Government Liquidity Fund Premier Acc T0 (EUR) Managed by BlackRock  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 ###  **Singapore**
 
@@ -41,10 +43,11 @@ Assets is available to **consumers** and **businesses** that are residents in Si
 If your address is in Singapore you can switch your **Jars** to:
 
 
- --- CSV table begins ---
+--- CSV table begins ---  
 Assets,Fund  
 Interest-earning fund,LionGlobal SGD Money Market Fund SGD Class A Managed by Lion Global Investors Ltd.  
- --- CSV table ends ---
+--- CSV table ends ---  
+
 
 You can switch between Cash and other Assets by selecting the Cash icon on your Balance or Jar. 
 
