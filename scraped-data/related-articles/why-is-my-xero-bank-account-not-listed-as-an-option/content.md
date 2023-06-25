@@ -1,0 +1,2 @@
+## Why is my Xero bank account not listed as an option?  
+You can only sync your Wise balance to a Xero bank account of the same currency. For example, you can sync your GBP Wise account to a GBP Xero bank account. Double check the currency of the Xero bank account you’re looking for.

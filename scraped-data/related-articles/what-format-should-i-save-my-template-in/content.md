@@ -1,0 +1,2 @@
+## What format should I save my template in?  
+Once you’ve opened the template file in a spreadsheet editor and filled in your transfer details, you can save your file as a CSV (it should have .csv at the end) or as an Excel file (.xlsx) and upload the file right on your account page.

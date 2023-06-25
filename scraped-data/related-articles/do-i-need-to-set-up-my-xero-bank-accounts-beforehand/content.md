@@ -1,0 +1,2 @@
+## Do I need to set up my Xero bank accounts beforehand?  
+You can create a new Xero bank account without leaving your Wise account. You also can do it from Xero if you’d prefer. You can only sync a Wise balance to a Xero bank account of the same currency.

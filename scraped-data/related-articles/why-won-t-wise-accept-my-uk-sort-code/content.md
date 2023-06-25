@@ -1,0 +1,6 @@
+## Why won't Wise accept my UK sort code?  
+There are a couple of reasons why you might see an error message saying “we can’t send money to that sort code”. 
+
+Most of the time, it’s because there’s a mistake or typo in the recipient’s account details. Please double check them to make sure they’re right, and then try again. 
+
+If you’re sure the account details are right and you still see the error message, then it’s possible that the recipient’s bank account doesn’t accept the payment systems that Wise uses. We can only send GBP to bank accounts which support Faster Payments (FPS), CHAPS or SWIFT. A small number of UK bank accounts don’t support any of these payments systems, so Wise can’t send your transfer to them. So, if you get this error message, please check with your recipient’s bank whether the sort code you have can accept FPS, CHAPS or SWIFT. If it doesn’t, you won’t be able to use Wise to send money to that bank account. You can also try asking your recipient if they have a second bank account that you can send the transfer to.

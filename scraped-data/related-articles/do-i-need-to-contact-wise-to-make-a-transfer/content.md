@@ -1,0 +1,2 @@
+## Do I need to contact Wise to make a transfer?  
+You don’t need to contact Wise to make a transfer. We’re a completely online service. We try to make the process as simple and fast as possible. Just let us know where you would like to send the transfer. Simply enter your desired amount and currencies into the calculator on our home page and follow the process.
