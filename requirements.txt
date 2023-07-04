@@ -1,0 +1,14 @@
+Flask
+Flask-RESTful
+gunicorn
+itsdangerous
+Jinja2
+peewee
+Werkzeug
+openai
+tiktoken
+numpy
+flask-cors
+python-dotenv
+psycopg2-binary
+sqlalchemy
